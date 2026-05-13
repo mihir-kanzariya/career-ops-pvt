@@ -1,0 +1,75 @@
+# Career-Ops Profile Configuration
+
+candidate:
+  full_name: "Mihir Kanzariya"
+  email: "kanzariyamihir@gmail.com"
+  phone: "+919624511797"
+  location: "Ahmedabad, India"
+  linkedin: "https://www.linkedin.com/in/mihirsathwara/"
+  portfolio_url: "https://pdfgpt.io"
+  github: ""
+  twitter: ""
+
+target_roles:
+  primary:
+    - "Senior Software Engineer"
+    - "Tech Lead"
+    - "Engineering Manager"
+    - "CTO / VP Engineering"
+  secondary:
+    - "Senior Product Engineer"
+    - "AI Product Engineer"
+    - "Growth Manager"
+    - "Project Manager"
+    - "Founding Engineer"
+  archetypes:
+    - name: "Senior Software Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Tech Lead / Team Lead"
+      level: "Senior"
+      fit: "primary"
+    - name: "Engineering Manager"
+      level: "Senior"
+      fit: "primary"
+    - name: "CTO / VP Engineering"
+      level: "Director+"
+      fit: "primary"
+    - name: "AI Product Engineer (RAG, Agents, Voice)"
+      level: "Senior"
+      fit: "primary"
+    - name: "Growth Manager / Growth Engineer"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Project Manager / Technical PM"
+      level: "Senior"
+      fit: "secondary"
+    - name: "Founding Engineer"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  headline: "Builder-leader who ships AI products at scale — from code to 100K users"
+  exit_story: "Built PdfGPT from zero to 100K+ users solo. 8 years shipping production software — freelancing, scaling teams, founding products. Deep in AI: RAG pipelines, AI agents, voice agents, OpenAI/Claude integrations. Now looking for a leadership or senior IC role where I can build and grow."
+  superpowers:
+    - "Zero-to-one product building (idea to 100K users)"
+    - "Full-stack AI: RAG, AI agents, voice agents, OpenAI, Claude, Codex"
+    - "Team leadership & project delivery (8 years across freelance + product)"
+    - "Growth mindset — built, monetized, and scaled products organically"
+    - "Performance optimization & scaling"
+  proof_points:
+    - name: "PdfGPT.io"
+      url: "https://pdfgpt.io"
+      hero_metric: "100K+ users, built and scaled solo"
+
+compensation:
+  target_range: "Flexible -- depends on role and company"
+  currency: "USD"
+  minimum: ""
+  location_flexibility: "Remote preferred, open to hybrid"
+
+location:
+  country: "India"
+  city: "Ahmedabad"
+  timezone: "IST (UTC+5:30)"
+  visa_status: "May need sponsorship for non-remote roles outside India"

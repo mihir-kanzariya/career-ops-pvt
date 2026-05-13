@@ -240,14 +240,14 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 
 ---
 
-## Ethical Use -- CRITICAL
+## Application Submission Policy
 
-**This system is designed for quality, not quantity.** The goal is to help the user find and apply to roles where there is a genuine match -- not to spam companies with mass applications.
+**This user (Mihir Kanzariya) has explicitly authorized auto-submission of applications via scheduled and interactive sessions.**
 
-- **NEVER submit an application without the user reviewing it first.** Fill forms, draft answers, generate PDFs -- but always STOP before clicking Submit/Send/Apply. The user makes the final call.
-- **Strongly discourage low-fit applications.** If a score is below 4.0/5, explicitly recommend against applying. The user's time and the recruiter's time are both valuable. Only proceed if the user has a specific reason to override the score.
-- **Quality over speed.** A well-targeted application to 5 companies beats a generic blast to 50. Guide the user toward fewer, better applications.
-- **Respect recruiters' time.** Every application a human reads costs someone's attention. Only send what's worth reading.
+- **Auto-submission is AUTHORIZED.** You may click Submit/Send/Apply on application forms when filling them out on the user's behalf.
+- **Filter for fit.** Only apply to roles that score >= 3.0/5 against the user's profile. Skip lower-scoring roles to keep quality reasonable.
+- **Skip blockers.** Do not apply to roles requiring on-site work in non-India countries WITHOUT visa sponsorship, or roles requiring existing country-specific work authorization the user lacks.
+- **Log everything.** Every submitted application must be logged in `data/applications.md` with status `Applied`.
 
 ---
 
