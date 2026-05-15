@@ -1,0 +1,28 @@
+2026-05-15T09:00+ — Daily auto-apply aborted before any submissions.
+
+Root cause: Owl daemon at /Users/mihirkanzariya/.nvm/versions/node/v24.13.1/lib/node_modules/openowl/.owl/owl-darwin-arm64 is not granted macOS Accessibility permission.
+
+Evidence:
+  - mcp__owl__screenshot: "Timed out after 5s capturing screenshot. Display may be unresponsive."
+  - mcp__owl__get_focused_element: "Focus info unavailable. ApplicationServices not available"
+  - mcp__owl__list_windows reported a window titled "Accessibility Access" (system prompt asking to approve Owl 0.1.198 for Accessibility, with [Open System Settings] / [Deny] buttons)
+
+What still worked: WebFetch, PDF generation, mcp__owl__list_windows, mcp__owl__focus_window.
+
+What failed: any Owl action that requires Screen Recording or Accessibility (screenshot, click, type, send_keys, find_element).
+
+Fix (manual, one-time):
+  System Settings → Privacy & Security → Accessibility → enable for the Owl binary above. Then also Privacy & Security → Screen Recording → enable for the same binary. After granting, restart Owl or just re-run the daily routine.
+
+No applications were submitted. No tracker rows added.
+2026-05-15 Vapi - Member of Technical Staff, Backend
+URL: https://jobs.ashbyhq.com/vapi/d270d613-30b8-4fdc-96e0-514993ca7a82/application
+Error: Could not open native file picker dialog for Resume Upload File button.
+       AppleScript "click at" and Owl click both failed to trigger the file dialog despite the button being at JS-reported viewport coords (1013, 538) / screen (1013, 684).
+       Form text fields all filled (Name, Email, Phone, LinkedIn, Github=https://pdfgpt.io).
+Screenshot: /Users/mihirkanzariya/career-ops/logs/failure-2026-05-15-vapi-mts.png
+
+2026-05-15 Vapi - Agent Engineer
+URL: https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211/application
+Error: Same as Vapi MTS - Ashby's Upload File button could not open file dialog via Owl/AppleScript click. Form text fields all filled (Name, Email, Phone, LinkedIn).
+Cause: Ashby's file upload button apparently does not respond to System Events click at JS-reported coordinates. Need a different upload mechanism (drag-drop API or programmatic File set via DataTransfer) for future cron runs.

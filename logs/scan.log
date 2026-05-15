@@ -1,0 +1,1230 @@
+=== Career-Ops Scan: Sun Apr 19 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-04-19
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5689
+Filtered by title:     3544 removed
+Duplicates:            1910 skipped
+New offers added:      235
+
+Errors (11):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Mistral AI: This operation was aborted
+  ✗ Weights & Biases: This operation was aborted
+  ✗ Palantir: This operation was aborted
+  ✗ Vinted: HTTP 404
+
+New offers:
+  + Parloa | Director of Product Marketing | Berlin Office; London Office; Munich Office
+  + Parloa | Forward Deployed Engineer, DevOps | Berlin Office; Munich Office; Remotely in Germany
+  + Parloa | Forward Deployed Engineer, VoIP | Berlin Office; Munich Office; Remotely in Germany
+  + Parloa | Software Engineer, GTM | Remotely in the USA
+  + Parloa | Team Lead, Business Development  | New York Office
+  + Anthropic | Applied AI Engineer | Seoul, South Korea
+  + Anthropic | Forward Deployed Engineer, Applied AI | Paris, France
+  + Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments | San Francisco, CA | New York City, NY
+  + Anthropic | Manager of Solutions Architecture, Applied AI (Industries) | San Francisco, CA | New York City, NY
+  + Anthropic | Partner Business Systems & AI Operations Lead | San Francisco, CA
+  + Anthropic | Partner Solutions Architect, Applied AI | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Product Counsel, Claude Platform  | San Francisco, CA | New York City, NY
+  + Anthropic | Research Engineer, Production Model Post-Training | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Software Engineer, Research Data Platform | San Francisco, CA | New York City, NY
+  + Anthropic | Solutions Architect, Applied AI | Tokyo, Japan
+  + Anthropic | Solutions Architect, Applied AI (Beneficial Deployments) | Bangalore, India
+  + Anthropic | Solutions Architect, Applied AI (Commercial) | San Francisco, CA | New York City, NY
+  + Anthropic |  Solutions Architect, Applied AI (Industries) | Paris, France
+  + Anthropic | Solutions Architect, Applied AI (Industries) | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Solutions Architect, Applied AI (Startups) | San Francisco, CA | New York City, NY
+  + Anthropic | Staff Software Engineer, AI Reliability Engineering | London, UK
+  + Anthropic | Staff Software Engineer, Inference | Dublin, IE
+  + Anthropic | Staff+ Software Engineer, Observability | London, UK
+  + Anthropic | Technical Deployment Lead, Applied AI | Paris, France
+  + Airtable | Senior Partner Solutions Architect | London, England, United Kingdom
+  + Airtable | Senior Solutions Architect | San Francisco, CA; New York, NY; Remote - US
+  + Vercel | Software Engineer, Agent | Hybrid - San Francisco, New York City
+  + Vercel | Software Engineer, Backend | Remote - United States
+  + Vercel | Solutions Architect | Remote - United Kingdom, Germany
+  + Intercom | Account Executive, Emerging AI Products | London, England
+  + Intercom | AI Infrastructure Engineer | London, England
+  + Intercom | Engineering Manager, AI Models Infrastructure | London, England
+  + Intercom | Engineering Manager, Forward Deployed Engineering | Dublin, Ireland
+  + Intercom | Manager, Solutions Engineering (Mid-Market & Enterprise)  | Chicago, Illinois
+  + Intercom | Principal Engineer  | Berlin, Germany
+  + Intercom | Principal Engineer - Go-To-Market | Dublin, Ireland
+  + Intercom | Principal Engineer, Web Platform – Team Web | Dublin, Ireland
+  + Intercom | Product Engineer | London, England
+  + Intercom | Senior AI Deployment Architect | Chicago, Illinois
+  + Intercom | Senior AI Product Manager | London, England
+  + Intercom | Senior Data Engineering Manager  | London, England
+  + Intercom | Senior Data Scientist AI Tooling | London, England
+  + Intercom | Senior Engineering Manager - Team Billing | London, England
+  + Intercom | Senior Forward Deployed Engineer | Dublin, Ireland
+  + Intercom | Senior Full Stack Engineer - Team Web | London, England
+  + Intercom | Senior Product Engineer | London, England
+  + Intercom | Senior Product Manager | London, England
+  + Intercom | Senior Product Manager, Web  | Berlin, Germany
+  + Intercom | Senior Security Engineering Manager | Dublin, Ireland
+  + Intercom | Solutions Architect | Chicago, Illinois
+  + Intercom | Solutions Engineer | Chicago, Illinois
+  + Intercom | Solutions Engineer - LATAM (Portuguese Speaking) | San Francisco, California
+  + Intercom | Staff Forward Deployed Engineer | London, England
+  + Intercom | Staff Product Engineer  | Dublin, Ireland
+  + Intercom | Staff Product Engineer, AI | Dublin, Ireland; London, England
+  + Intercom | Staff Product Manager - Web Growth | London, England
+  + Glean | AI Outcomes Manager, Central | Remote - US
+  + Glean | AI Outcomes Manager, East | New York, NY
+  + Glean | AI Outcomes Manager, West | San Francisco Bay Area
+  + Glean | Forward Deployed Product Manager | Remote - US
+  + Glean | Founding Forward Deployed Engineer | New York, NY
+  + Glean | Manager, AI Outcomes  | New York, NY
+  + Glean | Product Manager | San Francisco Bay Area
+  + Glean | Product Manager, Connectors | San Francisco Bay Area
+  + Glean | Public Sector Solutions Engineer, SLED | Washington, DC
+  + Glean | Senior Solutions Engineer, LATAM | Mexico City, Mexico
+  + Glean | Software Engineer, Backend | Bangalore, India
+  + Speechmatics | Senior Product Manager | Cambridge, England, United Kingdom
+  + Speechmatics | Software Engineer | Belgrade, Belgrade, Serbia
+  + Speechmatics | Software Engineer - FutureVoices | Cambridge, England, United Kingdom
+  + Speechmatics | Solutions Engineer | London, England, United Kingdom
+  + Cohere | Solutions Architect | Toronto
+  + Cohere | Forward Deployed Engineer, Infrastructure Specialist | Dubai
+  + Cohere | Forward Deployed Engineer, Agentic Platform | Middle East
+  + Cohere | Solutions Architect - Public Sector | Ottawa
+  + n8n | Engineering Manager | Remote | Europe  | Berlin Office
+  + Vapi | Agent Engineer - NY | New York
+  + Attio | Senior Product Engineer [Backend]  | Poland
+  + Attio | Senior Platform Engineer  | Poland
+  + Attio | Engineering Lead | Poland
+  + Attio | Solutions Engineer [Pre and Post-Sales] - SMB | London
+  + Attio | Staff Product Engineer  | London
+  + Celonis | Enterprise Architect Director | Madrid, Spain
+  + Celonis | Field CTO | Munich, Germany
+  + Celonis | Lead AI Deployment Architect | Madrid, Spain
+  + Celonis | Senior AI Deployment Architect  | London, United Kingdom
+  + Celonis | Senior Applied AI Engineer - Manufacturing/Supply Chain | Copenhagen, Denmark
+  + Celonis | Senior Applied AI Solutions Architect - Process Intelligence | Copenhagen, Denmark
+  + Celonis | Senior Applied AI Solutions Consultant  | Stockholm, Sweden
+  + Celonis | Senior Management & Technology Consultant - AI & Process Analytics | Stockholm, Sweden
+  + Celonis | Senior Solutions Architect | Remote, US, Virginia
+  + DeepL | Enterprise Account Executive Public Sector – Bund oder Sozialversicherungsträger | Germany - Remote
+  + LangChain | Product Marketing - Agent Infrastructure | New York, NY
+  + LangChain | Solutions Architect (Remote) | remote
+  + Contentful | Backend Software Engineer (f/m/d) | London, England, United Kingdom
+  + Contentful | Director, Product Management (f/m/d) | Berlin, Berlin, Germany
+  + Contentful | Engineering Manager - Workflows (f/m/d) | London, England, United Kingdom
+  + Contentful | Fullstack Software Engineer (f/m/d) | London, England, United Kingdom
+  + Contentful | Senior Backend Engineer - AI Platform (f/m/d) | London, England, United Kingdom
+  + Contentful | Senior Product Manager (f/m/d) | Berlin, Berlin, Germany
+  + Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d) | London, England, United Kingdom
+  + GetYourGuide | Associate Software Engineer | Zurich
+  + HelloFresh | Backend Engineer, Consumer | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | Maintenance Technician I  | Burr Ridge, IL, United States
+  + HelloFresh | Maintenance Technician III  | Phoenix, AZ, United States
+  + HelloFresh | Staff Engineer, Consumer | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | [US DC] Associate Maintenance Manager | Newark, NJ, United States
+  + HelloFresh | [US-DC] Director, Fulfillment | Newark, NJ, United States
+  + N26 | Backend Engineer - Acquire | Barcelona
+  + N26 | Backend Engineer - Engagement | Barcelona
+  + N26 | Head of Product - Engagement | Berlin
+  + N26 | (Senior) Product Manager - Onboarding & KYC | Barcelona
+  + N26 | Senior Product Manager - Payments Platform (Backend) | Barcelona
+  + SumUp | Commercial(e) Terrain - Indépendant (Freelance) | Fontainebleau, Seine-et-Marne, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Béziers, Hérault, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance)- Avignon | Avignon, Vaucluse, France
+  + SumUp | Commercial Terrain Indépendant (Freelance)- Corse | Bonifacio, Corse-du-Sud, France; Porto-Vecchio, Corse-du-Sud, France
+  + SumUp | Customer Support Agent | Santiago, Chile
+  + SumUp | Customer Support Team Lead | Barcelona, Barcelona, Spain
+  + SumUp | Engineering Manager | London, England, United Kingdom
+  + SumUp | Engineering Manager - Verification | Sofia, Bulgaria
+  + SumUp | Senior AML Investigator | Vilnius, Lithuania
+  + SumUp | Senior Backend Engineer - Accounts  | Sofia, Bulgaria
+  + SumUp | Senior Backend Engineer - Fiscalization | Berlin, Germany
+  + SumUp | Senior Backend Engineer (Global Bank Tribe) | São Paulo, Brazil
+  + SumUp | Senior Backend Engineer - Golang | Cologne, Germany
+  + SumUp | Software Engineer | São Paulo, São Paulo, Brazil
+  + SumUp | Training Manager (Field Sales) | Paris, Paris, France
+  + Scandit | Engineering Manager, Platform  | United Kingdom 
+  + Scandit | Senior Manager, Demand Generation Automation and Marketing Operations | London
+  + Decagon | Senior Agent Product Manager | New York City
+  + Decagon | Senior Solutions Engineer | London
+  + Decagon | Senior Software Engineer, Enterprise Product | New York City
+  + Decagon | Staff Software Engineer, Agent Orchestration | New York City
+  + Decagon | Senior Software Engineer, Agent Orchestration | New York City
+  + Decagon | Senior Software Engineer, Infrastructure | New York City
+  + Decagon | Staff Software Engineer, Enterprise Product | San Francisco
+  + Decagon | Director of Solutions Engineering, Strategic | San Francisco
+  + Decagon | Agent Success Manager  | London
+  + Decagon | Senior Software Engineer, Agents | New York City
+  + Deepgram | Solutions Architect (EST or PST) | USA | Remote
+  + Deepgram | Solutions Engineer, Enterprise | New York City, NY
+  + Deepgram | Forward Deployed Engineer, Deepgram for Restaurants | New York City, NY
+  + Deepgram | Solutions Architect (San Francisco, CA) | San Francisco, CA
+  + ElevenLabs | Enterprise Solutions Engineer - Brazil  | Brazil
+  + ElevenLabs | Enterprise Solutions Engineer - LATAM  | Mexico
+  + ElevenLabs | AI Creative Producer - Ads | United States
+  + Wayve | Application Software Engineer | Tokyo
+  + Wayve | Application Software Engineer - Relocation to Tokyo | Seoul
+  + Wayve | Customer Integration Engineer | Sunnyvale
+  + Wayve | Principal Application Software Engineer | Germany
+  + Wayve | Principal Application Software Engineer - Relocation to Tokyo | Detroit
+  + Wayve | Software Integration Engineer (6 months Contract)  | Sunnyvale
+  + Causaly | Senior Software Engineer | Athens
+  + Causaly | Senior AI Engineer | London
+  + Faculty | Lead Software Engineer | London
+  + Faculty | Full Stack Software Engineer  | London
+  + Faculty | Senior Software Engineer  | United Kingdom
+  + Faculty | Software Engineer | London
+  + Lovable | Solutions Architect | London
+  + Perplexity | Member of Technical Staff (AI Inference Engineer) | London
+  + Perplexity | Member of Technical Staff (AI Infrastructure Engineer) | London
+  + Sierra | Software Engineer, Agent | San Francisco, CA
+  + Sierra | Product Manager, Agent Development | London
+  + Sierra | Strategist, Agent Development | San Francisco, CA
+  + Sierra | Software Engineer, Agent (New Grad) | London
+  + Sierra | Strategist, Agent Development (Spanish speaking) | London
+  + Sierra | Strategist, Agent Development (French speaking) | London
+  + Sierra | Engineering Manager, Agent | London
+  + Sierra | Sales Director | Canada - Remote
+  + Sierra | GTM Operations Analyst, Agent Development | New York, NY
+  + Sierra | Software Engineer, Agent (Korean Speaking) | Singapore
+  + Sierra | Software Engineer, Agent (Thai Speaking) | Singapore
+  + Sierra | Software Engineer, Agent (Cantonese Speaking) | Singapore
+  + GitLab | Backend Engineer, Knowledge Graph (Rust) | Remote, Canada; Remote, US
+  + GitLab | CX Forward Deployed Engineer  | Remote, Australia; Remote, Singapore
+  + GitLab | Director Regional Sales, France | Remote, France
+  + GitLab | Director, Technical Writing | Remote, Canada; Remote, US
+  + GitLab | Public Sector Strategic Account Executive, DoD | Remote, US
+  + Notion | Solutions Engineer, EMEA | Dublin, Ireland
+  + Notion | Campaign Manager | San Francisco, California
+  + Spotify | Backend Engineer - Core Infrastructure | London
+  + Spotify | Backend Engineer - Data Platform | London
+  + Spotify | Backend Engineer - Platform Developer Experience | London
+  + Spotify | Backend Engineer, Music | New York, NY
+  + Spotify | Frontend Engineer II - SRC - Music | New York, NY
+  + Spotify | Senior Backend Engineer - Subscriptions | London
+  + Spotify | Senior Engineering Manager - Spotify for Artists | New York, NY
+  + Spotify | Senior Product Manager - Personalization | New York, NY
+  + Spotify | Senior Staff Machine Learning Engineer - Agentic Systems | New York, NY
+  + Linear | Senior / Staff Fullstack Engineer | North America
+  + Linear | Senior / Staff Product Engineer | North America
+  + Linear | Product Manager | Europe
+  + Writer | Senior software engineer, enterprise AI platform (UK) | London, UK
+  + Writer | Senior product marketing manager, platform & LLMs | San Francisco, CA
+  + Scale AI | Engagement Manager, Public Sector | Colorado Springs, CO
+  + Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS | Dubai, UAE
+  + Scale AI | Product Manager of AI Applications, Global Public Sector | Riyadh, Saudi Arabia
+  + Scale AI | Senior Full-Stack Software Engineer, (Forward Deployed), GPS | Doha, Qatar 
+  + Scale AI | Software Engineer, Robotics | Mexico City, MX
+  + Scale AI | Solutions Engineer, Enterprise | London, UK
+  + Scale AI | Technical Program Manager, Public Sector | Washington, DC
+  + Turing | Principal AI Engineer - Frontier Data | Bengaluru, Karnataka, India; Chennai, Tamil Nadu, India; Hyderabad, Telangana, India; Mumbai, Maharashtra, India; Pune, Maharashtra, India
+  + Turing | Principal Forward Deployed AI Engineer | Bengaluru, Karnataka, India; Gurugram, Haryana, India; Hyderabad, Telangana, India; Mumbai, Maharashtra, India
+  + Turing | Senior Staff Engineer | Brazil; Colombia, Huila, Colombia; India - Remote
+  + Postman | Enterprise Solutions Engineer | San Francisco, California, United States
+  + Postman | Key Account Director | Minneapolis, Minnesota, United States
+  + Postman | Regional Sales Director | New York, New York, United States
+  + Postman | Senior Software Engineer, Monetization  | San Francisco, California, United States
+  + Postman | Strategic Solutions Engineer | Remote, Canada
+  + Qonto | Staff Site Reliability Engineer Storage | Paris
+  + Razorpay | Lead AI Engineer | Bengaluru
+  + Razorpay | Senior Director, Engineering | Bengaluru
+  + Razorpay | Senior Product Manager | Bengaluru
+  + Legora | Senior Backend Engineer  | Malmö
+  + Legora | Marketing Manager, Campaigns | London
+  + Legora | Senior Software Engineer | Stockholm HQ
+  + Legora | GTM Team Lead | London
+  + Pigment | Data Engineer (Growth Team) | Paris
+  + Pigment | Engineering Manager | France
+  + Pigment | Engineering Manager - Front-end background | Paris
+  + Pigment | Growth Manager (GTM Engineer) | Paris
+  + Pigment | Lead Product Designer - Agentic AI | France or London
+  + Pigment | Project Manager | Paris
+  + Pigment | Project Manager, Professional Services - North America | US
+  + Pigment | Senior AI Scientist | France
+  + Pigment | Senior Backend Software Engineer | France
+  + Pigment | Senior Backend Software Engineer (UK) | London
+  + Pigment | Senior Frontend Engineer (UK) | London
+  + Pigment | Senior Frontend Software Engineer | France
+  + Pigment | Senior Fullstack Software Engineer | France
+  + Pigment | Solutions Architect - Paris | Paris
+  + Pigment | Solutions Architect - UK | London
+  + Pigment | Technical Account Management Team Lead - EMEA | Paris
+  + Pigment | Technical Escalation Team Lead | Paris
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Sun Apr 19 10:00:16 IST 2026 ===
+=== Career-Ops Scan: Wed Apr 22 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-04-22
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5862
+Filtered by title:     3616 removed
+Duplicates:            2106 skipped
+New offers added:      140
+
+Errors (10):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Mistral AI: This operation was aborted
+
+New offers:
+  + Intercom | Account Executive, Emerging AI Products | San Francisco, California
+  + Intercom | AI Infrastructure Engineer | Dublin, Ireland
+  + Intercom | Engineering Manager, AI Models Infrastructure | Berlin, Germany; Dublin, Ireland; London, England
+  + Intercom | Principal Engineer  | Dublin, Ireland
+  + Intercom | Senior AI Product Manager | Dublin, Ireland
+  + Intercom | Senior Engineering Manager, Fin AI Agent | London, England
+  + Intercom | Senior Product Engineer | London, England
+  + Intercom | Staff Product Engineer, AI | Berlin, Germany
+  + Intercom | Staff Product Manager - Web Growth | Dublin, Ireland
+  + Anthropic | Applied AI Architect (Startups) | Dublin, IE
+  + Anthropic | Enterprise Account Executive, Retail | London, UK
+  + Anthropic | Finance & Strategy, GTM Public Sector | San Francisco, CA | New York City, NY
+  + Anthropic | Forward Deployed Engineer, Applied AI | London, UK
+  + Anthropic | Manager of Solutions Architecture, Applied AI (Industries) | Munich, Germany
+  + Anthropic | Partner Solutions Architect, Applied AI | Munich, Germany
+  + Anthropic |  Staff Software Engineer, Continuous Integration | London, UK
+  + Bland AI | Machine Learning Researcher, Multimodal LLMs | San Francisco
+  + ElevenLabs | Executive Assistant to Growth Lead | United States
+  + Sierra | Software Engineer, Agent | Singapore
+  + Sierra | Product Manager, Agent Development | Singapore
+  + Sierra | Strategist, Agent Development | Singapore
+  + Sierra | Forward Deployed Infrastructure Engineer | San Francisco, CA
+  + Deepgram | Billing & Analytics Software Engineer | USA | Remote
+  + Deepgram | Defense / Edge Tech Lead | USA | Remote
+  + Decagon | Senior Agent Product Manager | London
+  + Decagon | Senior Solutions Engineer | New York City
+  + Zapier | Director of Engineering, Infrastructure | NAMER
+  + Zapier | Director, Product Marketing | NAMER
+  + n8n | Director of Engineering | Remote | Europe | Berlin Office
+  + LangChain | Deployed Engineer (Las Vegas) | Las Vegas, NV
+  + LangChain | Deployed Engineer (Denver) | Denver, CO
+  + LangChain | Deployed Engineer (Phoenix) | Phoenix, AZ
+  + LangChain | Deployed Engineer (Salt Lake City) | Salt Lake City, UT
+  + Cohere | Engineering Manager, FDE Infrastructure (EMEA) | United Arab Emirates
+  + Cohere | Security Officer - Sovereign AI | Ottawa
+  + Glean | AI Outcomes Manager | Bangalore, India
+  + Glean | Enterprise Regional Director, Southeast | Atlanta, GA
+  + Glean | Forward Deployed Product Manager | San Francisco Bay Area
+  + Glean | Founding Forward Deployed Engineer | Remote - US
+  + Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area
+  + Glean | Manager, AI Outcomes  | San Francisco Bay Area
+  + Glean | Tech Lead Manager, Admin Console | San Francisco Bay Area
+  + Speechmatics | Software Engineer | Cambridge, England, United Kingdom
+  + Speechmatics | Solutions Engineer | Belgrade, Belgrade, Serbia
+  + Black Forest Labs | Member of Technical Staff - Post Training | Freiburg (Germany)
+  + Black Forest Labs | Member of Technical Staff - Pretraining | Freiburg (Germany)
+  + Aleph Alpha | Senior AI Researcher - Pre-training Data | Heidelberg
+  + Celonis | Enterprise Architect Director | Munich, Germany
+  + Celonis | Field CTO | Raleigh, US, North Carolina
+  + Celonis | Senior Applied AI Solutions Architect - Process Intelligence | Stockholm, Sweden
+  + Celonis | Senior Management & Technology Consultant - AI & Process Analytics | Copenhagen, Denmark
+  + Celonis | Senior Product Manager - Extractors (Data Integration) | Bangalore, India
+  + Contentful | Backend Software Engineer (f/m/d) | Dublin, Dublin, Ireland
+  + Contentful | Director, Product Management (f/m/d) | Dublin, Dublin, Ireland
+  + Contentful | Engineering Manager - Workflows (f/m/d) | Berlin, Berlin, Germany
+  + Contentful | Fullstack Software Engineer (f/m/d) | Dublin, Dublin, Ireland
+  + Contentful | Senior Product Manager (f/m/d) | London, England, United Kingdom
+  + Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d) | Dublin, Dublin, Ireland
+  + HelloFresh | [HELLOCONNECT] Sustainability Coordinator | Manila, Manila, Philippines
+  + HelloFresh | Maintenance Technician | Calgary, Alberta, Canada
+  + HelloFresh | Maintenance Technician I  | Aurora, IL, United States
+  + HelloFresh | Maintenance Technician III | Irving, TX, United States
+  + HelloFresh | Senior Analyst Global Retail Media (all genders) | Amsterdam, North Holland, Netherlands
+  + SumUp | Commercial(e) Terrain - Indépendant (Freelance) | Melun, Seine-et-Marne, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Biarritz, Pyrénées-Atlantiques, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance)- Nîmes | Nîmes, Gard, France
+  + SumUp | Commercial Terrain Indépendant – SumUp (Strasbourg) | Strasbourg, Bas-Rhin, France
+  + SumUp | Fullstack Backend Engineer (NodeJs)  | Copenhagen, Denmark
+  + SumUp | Product Manager, Partnerships | Berlin, Germany
+  + SumUp | Senior Backend Engineer - Golang | Warsaw, Poland
+  + SumUp | Training Manager (Field Sales) | Milan, Italy
+  + Scandit | Engineering Manager, Platform  | Italy
+  + Wayve | Application Software Engineer - Relocation to Tokyo | Singapore
+  + Wayve | Customer Integration Engineer | Japan
+  + Wayve | Principal Application Software Engineer - Relocation to Tokyo | London
+  + Wayve | Software Engineer -System Performance, Robot Software | London
+  + Wayve | Software Integration Engineer (6 months Contract)  | Detroit
+  + PhysicsX | Senior Forward Deployed Software Engineer | New York, United States
+  + Faculty | Lead Software Engineer | London
+  + Perplexity | Product Manager (Builder) | San Francisco
+  + Legora | Director of Data Analytics and Business Systems | New York City
+  + Legora | Legal Data Director  | New York City
+  + Hightouch | Engineering Manager, Head of Machine Learning  | Remote (North America)
+  + PlanetScale | Software Engineer - Information Security | San Francisco Bay Area or Remote
+  + Descript | Lead Growth PM | San Francisco, CA or Remote, US
+  + GitLab | Director, Enterprise Architecture & Intelligent Automation | Remote, US
+  + GitLab | Director, Technical Writing | Remote, Canada; Remote, US
+  + GitLab | Field CTO | Remote
+  + GitLab | G&A Engineer, Netsuite/Claude  | Remote, North America
+  + GitLab | Intermediate Site Reliability Engineer, Environment Automation | Remote, Canada; Remote, US
+  + GitLab | Senior Backend Engineer (AI), Pipeline Execution | Remote, Canada; Remote, Ireland; Remote, Netherlands; Remote, United Kingdom; Remote, US-Southeast
+  + GitLab | Senior Solutions Architect - CEUR | Remote, Germany
+  + GitLab | Staff Backend Engineer, Analytics Instrumentation (Golang) | Remote, India
+  + Qonto | AML Officer - France | Paris
+  + Qonto | Sales Operations - Growth | Paris
+  + Qonto | Senior/Staff Frontend Engineer (React) - Remote friendly | Berlin
+  + Qonto | Supply Chain Manager Apprentice | Paris
+  + Scale AI | Engagement Manager (Hawaii), Public Sector | Honolulu, HI
+  + Scale AI | Senior Full-Stack Software Engineer, (Forward Deployed), GPS | Dubai, UAE
+  + Razorpay | Principal Engineer I | Bengaluru
+  + Razorpay | Product Manager II | Bengaluru
+  + Postman | Enterprise Solutions Engineer | Boston, Massachusetts; New York, New York, United States
+  + Postman | Head of Engineering (Customer Journey and Monetization) | Cupertino, California, United States; San Francisco, California, United States
+  + Postman | Key Account Director | Boston, Massachusetts
+  + Postman | Regional Sales Director | Austin, Texas, United States
+  + Postman | Software Engineer - Frontend, Performance and Monitoring | Bengaluru, Karnataka, India
+  + Postman | Staff Software Engineer, Business Platform | San Francisco, California, United States
+  + Pigment | Engineering Manager | Toronto
+  + Palantir | Backend Software Engineer - Application Development | New York, NY
+  + Palantir | Backend Software Engineer - Defense | Palo Alto, CA
+  + Palantir | Backend Software Engineer - Infrastructure | London, United Kingdom
+  + Palantir | Forward Deployed AI Engineer | London, United Kingdom
+  + Palantir | Forward Deployed Enablement Engineer - Customer Success | New York, NY
+  + Palantir | Forward Deployed Infrastructure Engineer - US Government | Palo Alto, CA
+  + Palantir | Forward Deployed Software Engineer | Seoul, South Korea
+  + Palantir | Forward Deployed Software Engineer - AUS Government | Sydney, Australia
+  + Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Palo Alto, CA
+  + Palantir | Forward Deployed Software Engineer - US Government | San Diego, CA
+  + Palantir | Full Stack Software Engineer - Application Development | London, United Kingdom
+  + Palantir | Senior Backend Software Engineer - Application Development | London, United Kingdom
+  + Palantir | Senior Backend Software Engineer - Infrastructure | New York, NY
+  + Palantir | Senior Front End Software Engineer - Application Development | New York, NY
+  + Palantir | Senior Software Engineer, Network Infrastructure | New York, NY
+  + Palantir | Senior Software Engineer, Substrate | New York, NY
+  + Palantir | Software Engineer - Apollo Platform | Seattle, WA
+  + Palantir | Software Engineer - Apollo Systems | Seattle, WA
+  + Palantir | Software Engineer - Environment Platform | New York, NY
+  + Palantir | Software Engineer - Mission Manager | New York, NY
+  + Palantir | Software Engineer, New Grad | London, United Kingdom
+  + Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA
+  + Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY
+  + Spotify | Associate Director, CRM & Martech | New York, NY
+  + Spotify | Backend Engineer - Core Infrastructure | London
+  + Spotify | Principal Product Manager, Experience | New York, NY
+  + Spotify | Product Manager - Data Platform | Toronto
+  + Spotify | Senior Backend Engineer - Subscriptions | London
+  + Spotify | Senior Product Manager - Core Experience | New York, NY
+  + Spotify | Senior Product Manager - Personalization | London
+  + Spotify | Senior Product Manager, Core Experience (Playback) | Stockholm
+  + Notion | Software Engineer, AI Capture | San Francisco, California
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Wed Apr 22 10:00:14 IST 2026 ===
+=== Career-Ops Scan: Sat Apr 25 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-04-25
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5544
+Filtered by title:     3455 removed
+Duplicates:            1971 skipped
+New offers added:      118
+
+Errors (12):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Sierra: This operation was aborted
+  ✗ Mistral AI: This operation was aborted
+  ✗ Palantir: This operation was aborted
+
+New offers:
+  + Intercom | Account Executive, Emerging AI Products | Dublin, Ireland
+  + Intercom | AI Infrastructure Engineer | Berlin, Germany
+  + Intercom | Engineering Manager, AI Models Infrastructure | Berlin, Germany
+  + Intercom | Product Manager | London, England
+  + Intercom | Senior Engineering Manager, Fin AI Agent | Berlin, Germany
+  + Intercom | Senior Product Engineer | Dublin, Ireland
+  + Intercom | Staff Product Engineer, AI | Dublin, Ireland
+  + Anthropic | Applied AI Architect, Public Sector | London, UK
+  + Anthropic | Director, Infrastructure Capex Accounting | San Francisco, CA | Seattle, WA
+  + Anthropic | Director, Infrastructure & Energy Accounting  | San Francisco, CA | Seattle, WA
+  + Anthropic | Director, Revenue Accounting Operations - Program Management | San Francisco, CA | Seattle, WA
+  + Anthropic | Forward Deployed Engineer, Applied AI | Boston, MA; Chicago, IL; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY; Washington, DC
+  + Anthropic | Head of ANZ, Applied AI | Sydney, Australia
+  + Anthropic | Manager of Applied AI Architecture, Enterprise Tech (Cyber) | New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+  + Anthropic | Product Support Specialist (Singapore - Weekend Coverage) | Singapore
+  + Anthropic | Senior Security Software Engineer, Linux Kernel Security - Nodes & Sensors | Zürich, CH
+  + Vercel | Director, Enterprise Sales, EMEA | Hybrid - London
+  + Vercel | Director, Sales Development  | Hybrid - London
+  + Vercel | Pricing Product Manager | Hybrid - San Francisco
+  + Vapi | Agent Strategist - NYC | New York
+  + Deepgram | Engineering Manager, Console Team (Product-Led Growth Strategy) | USA | Remote
+  + Deepgram | Senior AI Community Engineer | San Francisco, CA
+  + Speechmatics | Solutions Engineer | Cambridge, England, United Kingdom
+  + LangChain | Customer Engineer (West Coast) | San Francisco, CA
+  + Zapier | Sr. Engineering Manager (India Engineering Leader) | India
+  + Zapier | Sr. Applied AI Engineer | NAMER
+  + Decagon | Engineering Manager, Platform Infrastructure | San Francisco
+  + Decagon | Engineering Manager, AI & Data Infrastructure | San Francisco
+  + Aleph Alpha | Senior AI Researcher - Pre-training (f/m/d) | Heidelberg
+  + Helsing | Associate Programme Manager - Air | Munich - Berlin
+  + Helsing | Senior Programme Manager - Air | Munich - Berlin
+  + Celonis | Applied AI Value Engineer | Bangalore, India
+  + Celonis | Applied Engineer (Pre-Sales) - Supply Chain | Milan, Italy
+  + Celonis | Enterprise Architect Director | Paris, France
+  + Celonis | Manager, Value Engineering - Public Sector Transformation | Remote, Germany, Berlin
+  + Celonis |  Principal Enterprise Architect (public sector) | Remote, US, Washington DC
+  + Contentful | Senior Product Manager (f/m/d) | Dublin, Dublin, Ireland
+  + GetYourGuide | Senior Software Engineer,  Developer Enablement | Berlin
+  + GetYourGuide | Senior Software Engineer - (Frontend) | Berlin
+  + GetYourGuide | Software Engineer,  Developer Enablement | Berlin
+  + HelloFresh | Associate Director,  Cloud FinOps Manager (m/f/x) | Berlin, Berlin, Germany
+  + HelloFresh | Backend Engineer, Operations Technology (all genders) | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | Engineering Manager, Growth | Toronto, Ontario, Canada
+  + HelloFresh | Senior Frontend Engineer, Consumer Alliance (all genders)  | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | (Senior) Growth Marketing Manager (all genders) | Berlin, Berlin, Germany
+  + HelloFresh | Senior Machine Learning Engineer, Growth | Toronto, Ontario, Canada
+  + HelloFresh | Senior Manager Product Strategy (Factor) (all genders) | Amsterdam, North Holland, Netherlands
+  + HelloFresh | Senior Product Manager II, Personalisation & Data | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | [US-HQ] Growth Manager | New York, NY, United States
+  + N26 | Engineering Manager - Data Platform | Berlin
+  + N26 | Senior Full-Stack Security Automation Engineer | Barcelona
+  + N26 | Senior Product Manager - Runtime Platform | Barcelona
+  + SumUp | Commercial(e) Terrain - Indépendant (Freelance) | Boulogne-Billancourt, Hauts-de-Seine, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Dieppe, Seine-Maritime, France
+  + SumUp | Engineering Manager - Website | Berlin, Germany; London, England, United Kingdom
+  + SumUp | Fullstack Engineer  | Copenhagen, Denmark
+  + SumUp | Senior Fullstack Engineer - Operations Platform | Berlin, Germany
+  + SumUp | (Senior/Mid) Software Engineer, Golang - Payments Platform | Sofia, Bulgaria
+  + SumUp | Software Engineer (Golang) - Online Payments | Sofia, Bulgaria
+  + SumUp | Team Lead Account Manager  - English  | Barcelona, Barcelona, Spain
+  + SumUp | Team LeadAccount Manager - German | Barcelona, Barcelona, Spain
+  + SumUp | Team Lead Account Manager - Italian | Barcelona, Barcelona, Spain
+  + SumUp | Team Lead Early Growth Card Reader - English | Barcelona, Barcelona, Spain
+  + SumUp | Training Manager (Field Sales) | London, England, United Kingdom
+  + DeepL | Group Product Manager | Business Acceleration Track | Berlin
+  + DeepL | AI Research Manager | Translation Quality | Munich
+  + Scandit | Engineering Manager, Platform  | Germany
+  + Wayve | Application Software Engineer - Relocation to Tokyo | Germany
+  + Wayve | Principal Application Software Engineer - Relocation to Tokyo | Singapore
+  + Wayve | Tech Lead, ML Engineer - AV Product engineering | Sunnyvale
+  + Isomorphic Labs | Platform Engineer - Security | London
+  + Faculty | Software Engineer  | London
+  + Faculty | Lead Software Engineer | London
+  + Lovable | Fullstack Enterprise Engineer | London
+  + Synthesia | Staff Software Engineer, Voices | Europe
+  + Synthesia | Staff Fullstack Engineer, Avatars | Europe
+  + Synthesia | Staff Backend Engineer, Avatars | Europe
+  + Synthesia | Staff Research Engineer - Video Post Training | Europe
+  + ElevenLabs | Infrastructure Engineer (Data & Automations) | United Kingdom
+  + Amplemarket | Spontaneous Application - Engineering Manager | Remote, EMEA/LATAM/North America
+  + Perplexity | Member of Technical Staff (Software Engineer, Monetization) | San Francisco
+  + Perplexity | Member of Technical Staff (Software Engineer, Computer) | San Francisco
+  + Clay Labs | Product Designer, Growth | New York
+  + Supabase | CLI Team Lead | Remote
+  + Qonto | Growth Analyst | Paris
+  + Qonto | HR Product Manager (AI & Automation) | Paris
+  + Qonto | Product Engineer (Mobile) - Accounting Domain (Swift and/or Kotlin) | Paris
+  + Qonto | Senior/Staff Frontend Engineer (React) - Remote Friendly | Paris
+  + GitLab | Manager, Solutions Architects - Commercial | Remote, North America
+  + GitLab | Solutions Architect, Commercial - West | Remote, North America
+  + GitLab | Solutions Architect, Financial Services | Remote, North America
+  + GitLab | Solutions Architect - France | Remote, France
+  + GitLab | Staff Program Manager, Enterprise Technology & AI | Remote, Bangalore
+  + GitLab | Strategic Account Executive - Public Sector  | Remote, United Kingdom
+  + Scale AI | Product Manager, Public Sector GenAI Test & Evaluation (T&E) | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
+  + Scale AI | Software Engineer (Backend), Enterprise | Budapest, Hungary
+  + Replit | Staff Software Engineer, Anti-Abuse & Security | Foster City, CA (Hybrid) In office M,W,F
+  + Turing | AI Engineering Lead | Gurugram, Haryana, India
+  + Razorpay | Engineering Manager | Bengaluru
+  + Razorpay | Product Manager II  | Bengaluru
+  + Razorpay | Senior Engineering Manager | Bengaluru
+  + Postman | Key Account Director | Chicago, Illinois, United States
+  + Postman | Regional Sales Director | San Francisco, California, United States
+  + Postman | Senior Engineer (Fullstack, backend-heavy), Product Trust | Bengaluru, Karnataka, India
+  + Postman | Software Engineer (Fullstack, frontend-heavy), Product Trust | Bengaluru, Karnataka, India
+  + Notion | Software Engineer, New Grad | San Francisco, California
+  + Notion | Software Engineer, Developer Experience | Hyderabad, India
+  + Notion | Account Executive, Business Growth Sales | Tokyo, Japan 
+  + Notion | Software Engineer, Collections Experience | San Francisco, California
+  + Spotify | Backend Engineer- Release | London
+  + Spotify | Engineering Manager - Advertising | New York, NY
+  + Spotify | Machine Learning Engineering Manager - Personalization | New York, NY
+  + Spotify | Product Manager - Data Platform | London
+  + Spotify | Senior Backend Engineer - Personalization | New York, NY
+  + Spotify | Senior Client Partner, Retail - Germany | Berlin
+  + Spotify | Senior Fullstack Engineer - Data Platform | London
+  + Spotify | Senior Machine Learning Engineer, Personalization, Magenta | New York, NY
+  + Pigment | Fullstack Software Engineer | France
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Sat Apr 25 10:00:15 IST 2026 ===
+=== Career-Ops Scan: Tue Apr 28 10:00:01 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-04-28
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5521
+Filtered by title:     3373 removed
+Duplicates:            2029 skipped
+New offers added:      119
+
+Errors (13):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ ElevenLabs: This operation was aborted
+  ✗ Vinted: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Sierra: This operation was aborted
+  ✗ Legora: This operation was aborted
+  ✗ Notion: This operation was aborted
+
+New offers:
+  + Anthropic | Head of Finance AI & Innovation | San Francisco, CA
+  + Anthropic | Product Marketing Lead, Claude Platform - Cloud | San Francisco, CA | New York City, NY
+  + Anthropic | Technical Specialist, Claude Code | San Francisco, CA
+  + Vercel | Director, Commercial Sales, EMEA | Hybrid - London
+  + Intercom | Staff Product Engineer, AI | London, England
+  + Airtable | Paid Search Specialist | Remote - US
+  + Vapi | Product Manager - Enterprise & Governance | San Francisco
+  + Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland
+  + Celonis | Client Value Partner - AI-Driven Transformation & Process Intelligence | Paris, France
+  + Celonis | Client Value Partner (CVP) - AI-Driven Transformation & Process Intelligence | Zürich, Switzerland
+  + Celonis | Enterprise Architect Director | Zürich, Switzerland
+  + Contentful | Senior Product Manager (f/m/d) | Dublin, Dublin, Ireland
+  + GetYourGuide | Associate Software Engineer | Berlin
+  + HelloFresh | Staff Backend Engineer, Customer Value Optimisation | New York, NY, United States
+  + HelloFresh | [US DC] Associate Maintenance Manager | Irving, TX, United States
+  + HelloFresh | [US DC] Maintenance Manager | Phoenix, AZ, United States
+  + N26 | Engineering Manager - Data Platform | Barcelona
+  + N26 | Senior Product Manager - Runtime Platform | Berlin
+  + N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Berlin
+  + SumUp | Commercial(e) Terrain - Indépendant (Freelance) | Meaux, Seine-et-Marne, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Rennes, Ille-et-Vilaine, France
+  + SumUp | Inbound Sales Team Lead | Milan, Italy
+  + Scandit | Engineering Manager, Platform  | Zurich
+  + Wayve | Application Software Engineer - Relocation to Tokyo | Detroit
+  + Wayve | Principal Application Software Engineer - Relocation to Tokyo | Seoul
+  + PhysicsX | Machine Learning Software Engineer, Research | London, United Kingdom
+  + PhysicsX | Staff Machine Learning Software Engineer, Research | London, United Kingdom
+  + Synthesia | Product Manager, Analytics | London
+  + Mistral AI | Account Executive – AI for Citizens | Paris
+  + Mistral AI | AI Deployment Strategist - Australia | Sydney
+  + Mistral AI | AI Deployment Strategist - Luxembourg | Luxembourg
+  + Mistral AI | AI Deployment Strategist - Marseille | Marseille
+  + Mistral AI | AI Deployment Strategist - MENA | Abu Dhabi
+  + Mistral AI | AI Deployment Strategist - Morocco | Casablanca
+  + Mistral AI | AI Deployment Strategist - Munich, Germany | Munich
+  + Mistral AI | AI Deployment Strategist - Netherlands | Amsterdam
+  + Mistral AI | AI Deployment Strategist - Paris | Paris
+  + Mistral AI | AI Deployment Strategist - Seoul | Seoul
+  + Mistral AI | AI Deployment Strategist - Singapore | Singapore
+  + Mistral AI | AI Deployment Strategist - Spain | Madrid
+  + Mistral AI | AI Deployment Strategist - Sweden | Stockholm
+  + Mistral AI | AI Deployment Strategist - UK | London
+  + Mistral AI | AI Deployment Strategist, Cybersecurity - Paris | Paris
+  + Mistral AI | AI Developer Advocate | New York, NY
+  + Mistral AI | AI Developer Advocate - Singapore | Singapore
+  + Mistral AI | AI Engineer, Product | Paris
+  + Mistral AI | AI Scientist - Audio | Paris
+  + Mistral AI | AI Scientist - Palo Alto | Palo Alto
+  + Mistral AI | AI Scientist - Paris/London - Onsite or Hybrid or Remote | Paris
+  + Mistral AI | AI Scientist - Robotics | Paris
+  + Mistral AI | AI Scientist - Warsaw | Warsaw
+  + Mistral AI | AI Scientist - Zurich | Zurich
+  + Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA | Paris
+  + Mistral AI | Applied AI Engineer, Prototyping | Paris
+  + Mistral AI | Applied AI Engineer, Senior/Staff Devops/SRE - EMEA | Paris
+  + Mistral AI | Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore | Singapore
+  + Mistral AI | Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Singapore | Singapore
+  + Mistral AI | Applied AI, Evaluation Engineer | Paris
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - EMEA | Paris
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Montreal | Montreal
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Morocco | Casablanca
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto | Palo Alto
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer- Singapore | Singapore
+  + Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA | Paris
+  + Mistral AI | Applied AI, Technical Lead - Forward Deployed AI Engineer | New York, NY
+  + Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA | Paris
+  + Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal | Montreal
+  + Mistral AI | Associate AI Deployment Strategist | Paris
+  + Mistral AI | CyberSecurity Team Lead, Infrastructure and Application | Paris
+  + Mistral AI | Engineering Manager | Paris
+  + Mistral AI | Engineering Team Lead, DevEx | Paris
+  + Mistral AI | Executive Assistant to the VP Engineering - Paris | Paris
+  + Mistral AI | Executive Assistant to VP of Engineering (Contractor) | Paris
+  + Mistral AI | Mistral Cloud - Software Engineer, Backend (Golang) | Paris
+  + Mistral AI | Mistral Cloud - Software Engineer, Fullstack/Frontend | Paris
+  + Mistral AI | Product Manager, AI Studio | Paris
+  + Mistral AI | Product Manager, Cloud Partnerships | New York, NY
+  + Mistral AI | Product Manager, Context & Search | Paris
+  + Mistral AI | Product Manager, Document Intelligence | Paris
+  + Mistral AI | Product Manager, Forge | Paris
+  + Mistral AI | Research Platform Engineer, DevOps | Paris
+  + Mistral AI | Research Software Engineer - Paris/London | Paris
+  + Mistral AI | Senior AI Deployment Strategist - Paris | Paris
+  + Mistral AI | Software Engineer,  Frontend | Paris
+  + Mistral AI | Software Engineer, Backend (London) | London
+  + Mistral AI | Software Engineer, Backend (New-York) | New York, NY
+  + Mistral AI | Software Engineer, Backend (Paris) | Paris
+  + Mistral AI | Software Engineer, Deployment Infrastructure | Paris
+  + Mistral AI | Software Engineer, DevEx | Paris
+  + Mistral AI | Software Engineer, Enterprise Agents | Paris
+  + Mistral AI | Software Engineer, Knowledge and Search | Paris
+  + Mistral AI | Software Engineer, QA | Paris
+  + Mistral AI | Talent Acquisition - EMEA (Contractor) | Paris
+  + Mistral AI | Talent Acquisition - US (Contractor) | Palo Alto
+  + Faculty | Lead Software Engineer | United Kingdom
+  + Hightouch | AI Creative Technologist | Remote, United States
+  + Supabase | AI Tooling Engineer | Remote
+  + Supabase | Platform Engineer - Multicloud | Remote
+  + GitLab | Candidate Experience Specialist, Contractor  | Remote, Singapore
+  + GitLab | Engineering Manager, Infrastructure Platforms | Remote, Canada; Remote, Ireland; Remote, Israel; Remote, Netherlands; Remote, United Kingdom; Remote, US
+  + Razorpay | Product Manager II | Bengaluru
+  + Razorpay | Senior Engineering Manager | Bengaluru
+  + Postman | Key Account Director | Austin, Texas, United States
+  + Postman | Regional Sales Director | Atlanta, Georgia, United States
+  + Postman | Senior Fullstack Software Engineer | San Francisco, California, United States
+  + Palantir | Backend Software Engineer - Defense | New York, NY
+  + Palantir | Forward Deployed Enablement Engineer - Customer Success | Washington, D.C.
+  + Palantir | Forward Deployed Infrastructure Engineer - US Government | New York, NY
+  + Palantir | Forward Deployed Reliability Engineer | London, United Kingdom
+  + Palantir | Forward Deployed Software Engineer | Doha, Qatar
+  + Palantir | Forward Deployed Software Engineer - US Government | Honolulu, HI
+  + Palantir | Senior Software Engineer, Network Infrastructure | Washington, D.C.
+  + Palantir | Senior Software Engineer, Substrate | London, United Kingdom
+  + Palantir | Software Engineer - Apollo Platform | London, United Kingdom
+  + Palantir | Software Engineer - Mission Manager | Seattle, WA
+  + Palantir | Software Engineer, New Grad | Seattle, WA
+  + Spotify | Director of Engineering, Experience | Stockholm
+  + Spotify | Director of Sales, Emerging & Scaled - Southern Europe | Madrid
+  + Spotify | Engineering Manager II - Creator and Publisher Analytics | New York, NY
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Tue Apr 28 10:00:23 IST 2026 ===
+=== Career-Ops Scan: Fri May  1 10:00:01 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-05-01
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5465
+Filtered by title:     3356 removed
+Duplicates:            2012 skipped
+New offers added:      97
+
+Errors (13):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Deepgram: This operation was aborted
+  ✗ Runway: HTTP 404
+  ✗ Mistral AI: This operation was aborted
+  ✗ Legora: This operation was aborted
+  ✗ Spotify: This operation was aborted
+
+New offers:
+  + PolyAI | Forward Deployed AI Engineer (Must be based in Toronto, Canada) | Toronto, Canada
+  + PolyAI | Group Product Manager | London, United Kingdom
+  + PolyAI | Senior Platform Software Engineer | London, United Kingdom
+  + Anthropic | Regulatory Counsel, Content & Frontier AI Regulation | Dublin, IE
+  + Anthropic | Staff Engineer, Datacenter Server Lifecycle | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Staff Software Engineer, Node Infra | San Francisco, CA | New York City, NY | Seattle, WA
+  + Arize AI | DevSecOps Engineer (TypeScript & Agentic AI) | Remote/Hybrid (SoCal)
+  + Intercom | Senior Manager, Customer Campaigns & Lifecycle Marketing | Dublin, Ireland
+  + ElevenLabs | Enterprise Solutions Engineer - Brazil | Brazil
+  + ElevenLabs | Enterprise Solutions Engineer - ANZ | Australia
+  + Pinecone | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | Tel Aviv
+  + Decagon | Director, Strategic Accounts | Remote
+  + Cohere | Forward Deployed Engineer, Infrastructure Specialist (Public Sector) | Ottawa
+  + LangChain | Sales Development Director (San Francisco) | San Francisco, CA
+  + LangChain | Sales Development Director (NYC) | New York, NY
+  + n8n | Engineering Manager, Core Platform | Remote | Europe  | Berlin Office
+  + Helsing | Supply Chain Manager | London; Plymouth
+  + Contentful | Senior Product Manager (f/m/d) | London, England, United Kingdom
+  + Celonis | Client Engagement Partner - AI-Driven Transformation & Process Intelligence | Paris, France
+  + Celonis | Enterprise Architect Director | Milan, Italy
+  + Celonis | Senior Counsel, U.S. Public Sector | Remote, US, Washington DC
+  + Celonis | Senior Software Engineer - Provisioning and Licensing | Munich, Germany
+  + Celonis | Strategic Account Executive CPG / Retail | Amsterdam, Netherlands
+  + Celonis | Workday Integration & Automation Sr. Engineer | Madrid, Spain
+  + Sierra | Enterprise Account Executive, Spain | Madrid
+  + Sierra | Software Engineer, Agent | Madrid
+  + Sierra | Sales Director, DACH | Munich
+  + Sierra | Strategist, Agent Development | Tokyo
+  + Sierra | Product Manager, Infrastructure | San Francisco, CA
+  + Trade Republic | Backend Engineer (Haskell) | Berlin
+  + Trade Republic | Graduate Backend Engineering Programme - Paris  | Paris
+  + N26 | Product Manager - Data Governance & Analytics Engineering | Barcelona
+  + N26 | Product Manager - Lending | Berlin
+  + N26 | Senior AI & Automation Manager | Berlin
+  + N26 | Senior Full-Stack Security Automation Engineer | Berlin
+  + N26 | Site Reliability Engineer - Platform Engineering | Barcelona
+  + N26 | Team Lead Risk - ICAAP / ILAAP (Pillar 1) | Madrid
+  + Zapier | Staff Engineer, Backend - Revenue | NAMER
+  + GetYourGuide | Senior Engineer, Operational Excellence | Berlin
+  + GetYourGuide | Staff Engineer, Operational Excellence | Berlin
+  + SumUp | Commercial(e) Terrain Indépendant(e) | Nantes, Loire-Atlantique, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Saint-Malo, Ille-et-Vilaine, France
+  + SumUp | Customer Support Agent with Finnish and English | Berlin, Germany
+  + SumUp | MLRO- GRC & Risk | London, England, United Kingdom
+  + SumUp | Senior ML/AI Engineer | Barcelona, Barcelona, Spain
+  + HelloFresh | Associate Director, Creator Partnerships - Factor | New York, NY, United States
+  + HelloFresh | Senior Backend Engineer, Operations (f/m/x) | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | Senior Growth Strategy Manager | Sydney, New South Wales, Australia
+  + Lakera | Executive Assistant, AI Security (NY/NJ) | New York
+  + Scandit | Engineering Manager, Platform  | Warsaw
+  + Wayve | Principal Application Software Engineer - Relocation to Tokyo | Israel
+  + Lovable | AI Researcher, Post Training | Stockholm
+  + Hightouch | Account Executive, Mid-Market - Mountain West | Remote-Mountain West
+  + Hightouch | Principal Engineer, Streaming Systems | Remote (North America)
+  + Hightouch | Software Engineer, Control Plane | Remote (North America)
+  + Hightouch | Software Engineer, Customer Studio Backend | Remote (North America)
+  + Hightouch | Software Engineer, Streaming Systems | Remote (North America)
+  + Qonto | Growth Ops Engineer — Salesforce | Paris
+  + Qonto | Legal AI Senior Engineer | Paris
+  + Qonto | Senior Product Manager - Connect | Paris
+  + Supabase | Product Manager - Security & Trust (EMEA/AMER) | AMER
+  + Supabase | AWS Tech Lead - Platform Operations | Remote
+  + GitLab | AI Engineer | Remote, Bangalore
+  + GitLab | Field Strategist, Forward Deployed Engineer  | Remote
+  + GitLab | Senior Director, Technical Program Management | Remote, US
+  + GitLab | Senior Engineering Manager, DevEx | Remote, Canada; Remote, United Kingdom; Remote, US
+  + GitLab | Senior Product Manager, Tenant Scale | Remote, Canada; Remote, US; Remote, US-Southeast
+  + GitLab | Senior Solutions Architect | Remote, Italy
+  + GitLab | Senior Solutions Architect, Financial Services | Remote, North America
+  + Descript | Senior Frontend Engineer, Marketing Web | San Francisco, CA | Remote
+  + Notion | Manager - Solutions Engineering, APACx | Sydney, Australia
+  + Notion | Software Engineer, New Grad (AI) | San Francisco, California
+  + Mintlify | Senior Solutions Engineer - Pre Sales (NYC) | New York City
+  + Cursor | Regional Director, Strategic Sales, High-Tech | Remote
+  + Cursor | Product Manager, Cloud Agents | San Francisco
+  + Cursor | Product Manager, Billing & Fraud | San Francisco
+  + Cursor | Product Manager, Agent Harness | San Francisco
+  + Cursor | Product Manager, Dashboard, Analytics & Insights | San Francisco
+  + Faculty | Lead Software Engineer | London
+  + Pigment | Senior Backend Software Engineer | Toronto
+  + Together AI | AI Infrastructure Engineer | San Francisco
+  + Together AI | Director, Support Engineering  | San Francisco
+  + Together AI | Forward Deployed Engineer (GPU Clusters) | San Francisco
+  + Together AI | Technical Account Manager (TAM), AI Factory  | San Francisco
+  + Scale AI | Director of Product Management, Forward Deployed & Strategy | New York, NY
+  + Scale AI | Principal Solutions Engineer, Enterprise | New York, NY; San Francisco, CA
+  + Scale AI | Senior AI Infrastructure Engineer - Training Platform | San Francisco, CA; Seattle, WA; New York, NY
+  + Razorpay | AI Builder | Bengaluru
+  + Razorpay | Lead Software Engineer | Bengaluru
+  + Turing | AI Engineering Lead | New York, New York, United States
+  + Turing | Senior AI Solutions Engineer, Enterprise Knowledge Work | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States
+  + Turing | Senior AI Solutions Engineer, Software Engineering | New York, New York, United States; San Francisco, California, United States; Seattle, Washington, United States
+  + Postman | Key Account Director | Dallas, Texas, United States
+  + Postman | Senior Software Engineer Manager - Ecosystems  | Cupertino, California, United States; San Francisco, California, United States
+  + Palantir | Forward Deployed Software Engineer | Amsterdam, Netherlands
+  + Palantir | Forward Deployed Software Engineer - US Government | Fayetteville, NC
+  + Palantir | Senior Software Engineer, Substrate | Seattle, WA
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Fri May  1 10:00:22 IST 2026 ===
+=== Career-Ops Scan: Thu May  7 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-05-07
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5845
+Filtered by title:     3608 removed
+Duplicates:            2123 skipped
+New offers added:      114
+
+Errors (10):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Spotify: This operation was aborted
+
+New offers:
+  + Parloa | Business Development Executive (Spain) | London Office
+  + Anthropic | AI Compliance Officer | Dublin, IE
+  + Anthropic | Engineering Manager, Marketplace | San Francisco, CA | Seattle, WA
+  + Anthropic | Engineering Manager, Passport  | San Francisco, CA | Seattle, WA
+  + Anthropic | Security Software Engineer, Platform Integration | New York City, NY; San Francisco, CA; Seattle, WA
+  + Anthropic | Staff Software Engineer, Kubernetes Platform | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Staff+ Software Engineer, Public Sector | San Francisco, CA | New York City, NY
+  + Arize AI | AI Application Engineer, APJ | Remote (Singapore)
+  + Arize AI | AI Solutions Manager, APJ | Remote (Singapore)
+  + Arize AI | AI Solutions Manager, EMEA | Remote (London)
+  + Arize AI | AI Solutions Manager, SMB | Remote (United States)
+  + Arize AI | Technical Product Marketing Manager, Competitive Intelligence & Sales Enablement (AI Native) | San Francisco
+  + Arize AI | Technical Product Marketing Manager, Developer Growth | San Francisco
+  + RunPod | Senior Growth Marketing Manager | Remote, USA
+  + Glean | CA Industrial Trainee | Bangalore, India
+  + Glean | Enterprise Regional Director, Northeast | New York, NY
+  + Sierra | Software Engineer, Agent | Paris
+  + Sierra | Strategist, Agent Development | Sydney
+  + Sierra | Agent Experience Designer, Voice (Multilingual) | London
+  + Lindy | Full Stack Software Engineer | San Francisco
+  + Zapier | Director, Channel Partnerships | NAMER
+  + LangChain | Deployed Engineer (Singapore) | Singapore
+  + Decagon | Software Engineer, Agents | London
+  + Decagon | Research Engineer, Agents | New York City
+  + Black Forest Labs | Member of Technical Staff - ML Infrastructure Engineer | Freiburg (Germany), San Francisco (USA)
+  + ElevenLabs | Enterprise Solutions Engineer - Singapore | Singapore
+  + Helsing | Director of Production   | Washington, DC
+  + Helsing | Supporting Tech Lead - Maritime | London; Plymouth
+  + Celonis | Client Account Lead - AI-Driven Transformation & Process Intelligence | Paris, France
+  + Celonis | Director of Professional Services | New York, US, New York
+  + Celonis | Enterprise Architect Director | Stockholm, Sweden
+  + Celonis | Field CTO - AI & Enterprise Modernization | Munich, Germany
+  + Celonis | Field CTO - AI & Enterprise Modernization  | London, United Kingdom
+  + Contentful | Full Stack Software Engineer III | Denver, Colorado, United States
+  + GetYourGuide | AI/ML Manager, Supply Data Products | Berlin
+  + GetYourGuide | Data Scientist, Growth Data Products | Berlin
+  + GetYourGuide | Senior Legal Counsel - Data, Privacy & AI | Berlin
+  + N26 | Backend Engineer - Engagement | Berlin, Barcelona
+  + N26 | Complaints Market Manager (Germany) | Madrid
+  + N26 | Product Manager - Data Governance & Analytics Engineering | Berlin
+  + N26 | Product Manager - Lending | Barcelona
+  + N26 | Product Manager - Savings | Berlin
+  + Lakera | Group Manager, Detectors (Zürich)  | Zürich
+  + Lakera | Solutions Engineer, Manager (UK) | London
+  + SumUp | Commercial(e) Terrain Indépendant(e) | Angers, Maine-et-Loire, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Castres, Tarn, France
+  + SumUp | Customer Support Agent - SP/PT | Barcelona, Barcelona, Spain
+  + SumUp | Executivo(a) de Vendas l Caucaia - CE | Fortaleza, Ceará, Brazil
+  + SumUp | Sales Development Team Lead - French Speaker | Barcelona, Barcelona, Spain
+  + SumUp | SDR Team Lead - Dutch Speaker | Cologne, Germany
+  + SumUp | Senior Data Platform Engineer | Berlin, Germany
+  + SumUp | Senior Fullstack Engineer (NodeJs)  | Copenhagen, Denmark
+  + SumUp | Senior ML/AI Engineer | Sofia, Bulgaria
+  + HelloFresh | Anlagentechniker (all genders) | Verden, Niedersachsen, Germany
+  + HelloFresh | Associate Director FP&A (f/m/x) | Amsterdam, North Holland, Netherlands
+  + HelloFresh | Automation Engineer (all genders) | Magdeburg, Saxony-Anhalt, Germany
+  + HelloFresh | Director, Employment Counsel | Aurora, IL, United States; Chicago, Illinois, United States; New York, NY, United States
+  + HelloFresh | Maintenance Technician (all genders) | Verden, Niedersachsen, Germany
+  + HelloFresh | Maintenance Technician II | Phoenix, AZ, United States
+  + HelloFresh | Marketing Manager, Paid Search | New York, NY, United States
+  + HelloFresh | React Native Developer, Growth | Toronto, Ontario, Canada
+  + HelloFresh | Senior Backend Engineer, Consumer  | Toronto, Ontario, Canada
+  + HelloFresh | Senior CRM Strategy Manager - Reactivations (all genders) | Berlin, Berlin, Germany
+  + HelloFresh | Senior Frontend Engineer, Consumer Alliance (f/m/x)  | Warszawa, Masovian Voivodeship, Poland
+  + Wayve | Senior Cloud SRE - AI/ML Platform & GPU Compute | London
+  + Wayve | Staff Cloud SRE – AI/ML Platform & GPU Compute | London
+  + PhysicsX | Forward Deployed Software Engineer | Singapore
+  + Lovable | Fullstack Engineer - Lovable Apps Platform Team | Stockholm
+  + Legora | Director - Workplace Technology | Stockholm HQ
+  + Legora | People Enablement Partner - Growth | London
+  + Legora | Director,  Product Marketing | New York City
+  + Legora | Legal AI Student Analyst | Remote
+  + Legora | Director, Product Marketing | Stockholm HQ
+  + Legora | Software Engineer - AI Enablement & Workplace Technology | Stockholm HQ
+  + Palantir | Forward Deployed Infrastructure Engineer - US Government | Honolulu, HI
+  + Palantir | Forward Deployed Software Engineer | London, United Kingdom
+  + Palantir | Forward Deployed Software Engineer - US Government | New York, NY
+  + Clay Labs | GTME Ecosystem - GTME & AI Teacher | New York
+  + Qonto | Senior/Staff -  Backend Engineer - remote friendly | Berlin
+  + Qonto | Senior/Staff - Backend Engineer - remote friendly | Barcelona
+  + Qonto | Software Engineer (Engineering Efficiency) - remote friendly | Paris
+  + Notion | Workplace Technology Operation (Contractor) | San Francisco, California
+  + Replit | Staff Software Engineer, Money Partnerships | Foster City, CA (Hybrid) In office M,W,F
+  + Scale AI | Director, Forward Deployed Engineering | London, UK
+  + Scale AI | Engagement Manager, Public Sector | Hamptons Road, VA
+  + Scale AI | Product Manager, Trust & Safety | New York, NY; San Francisco, CA
+  + Scale AI | Technical Program Manager (Computer Vision), Public Sector | Washington, DC
+  + Scale AI | Technical Program Manager, Public Sector Engineering | New York, NY; Washington, DC
+  + Together AI | AI infrastructure Engineer (SRE) Amsterdam | Amsterdam 
+  + Together AI | Staff Engineer, Customer Insights | San Francisco
+  + Writer | Solutions architect (pre-sales) (West) | San Francisco, CA
+  + Writer | Solutions architect (East)  | New York City, NY
+  + Writer | AI deployment engineer (West) | San Francisco, CA
+  + Writer | AI deployment engineer (Central) | Chicago, IL
+  + Writer | AI deployment engineer (East) | New York City, NY
+  + GitLab | Forward Deployed Engineer | Remote
+  + GitLab | Manager, Solutions Architects - SF Bay area | Remote, US
+  + GitLab | Senior Solutions Architect - West | Remote, North America
+  + Cursor | Data Scientist, Growth | San Francisco
+  + Cursor | Engineering Manager, Desktop | San Francisco
+  + Cursor | GVP, Strategy & Business Development Public Sector | Remote
+  + Postman | Key Account Director | Toronto, Ontario, Canada
+  + Postman | Regional Sales Director | Dallas, Texas, United States
+  + Postman | Senior Engineer Frontend, Monetization | Bengaluru, Karnataka, India
+  + Postman | Staff Engineer, Product Trust | Bengaluru, Karnataka, India
+  + Mistral AI | AI Developer Advocate | Paris
+  + Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris | Paris
+  + Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi | Abu Dhabi
+  + Mistral AI | Product Manager, Mistral Vibe | Paris
+  + Mistral AI | Solution Operations Manager, People Growth | Paris
+  + Mistral AI | Solution Operations Manager, Revenue Growth | Paris
+  + Mistral AI | Solutions Architect, Partner - EMEA | Paris
+  + Cohere | Engineering Manager, Agentic Platform  | Europe
+  + Cohere | Director of Infrastructure Finance | San Francisco
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Thu May  7 10:00:17 IST 2026 ===
+=== Career-Ops Scan: Sun May 10 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-05-10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5910
+Filtered by title:     3616 removed
+Duplicates:            2216 skipped
+New offers added:      78
+
+Errors (10):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Legora: This operation was aborted
+
+New offers:
+  + Intercom | Principal Engineer, Fin AI Agent | London, England
+  + Intercom | Senior Engineering Manager, Fin AI Agent | Dublin, Ireland
+  + Parloa | (Senior) Technical Project Manager - Agentic AI Deployments | Berlin Office; Remotely in Germany
+  + Anthropic | Analytics Data Engineering Manager, Product | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Staff Software Engineer, Kubernetes Platform | London, UK
+  + Anthropic | Staff Software Engineer, Node Infra | London, UK
+  + Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | Seattle, WA
+  + ElevenLabs | B2B Marketing - Spanish Latam Growth Lead | Mexico
+  + Glean | AI Outcomes Manager, LATAM | Brazil
+  + Deepgram | Director, Technical Accounting & Financial Reporting | USA | Remote
+  + Deepgram | Director, Tax | USA | Remote
+  + Decagon | Research Engineer, Agents | San Francisco
+  + n8n | SDR Team Lead (Boston | Hybrid) | Boston
+  + LangChain | Deployed Engineer (South EMEA) | London
+  + Contentful | Full Stack Engineer - Analytics (f/m/d) | Berlin, Berlin, Germany
+  + GetYourGuide | Senior Product Manager, B2B  | Berlin
+  + Celonis | Client Value Partner - Public Sector | London, United Kingdom
+  + Celonis | Client Value Partner - Retail | New York, US, New York
+  + Helsing | Incoming Inspector - Production Quality | Munich
+  + Helsing | Procurement Project Manager | Munich
+  + Helsing | Quality Inspector - Production Quality | Munich
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Grenoble, Isère, France
+  + SumUp | Senior Backend Engineer - Global Expansion | Berlin, Germany
+  + N26 | Product Manager - Savings | Barcelona
+  + N26 | Senior Backend Engineer - Customer Risk Lifecycle | Berlin, Barcelona
+  + HelloFresh | Engineering Manager, Conversions Tech (all genders) | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | Logistics Team Lead | Manila, Manila, Philippines
+  + HelloFresh | Senior Backend Engineer, Food Systems (al genders)  | Warszawa, Masovian Voivodeship, Poland
+  + HelloFresh | [US DC] Senior Maintenance Manager | Goodyear, Arizona, United States
+  + Photoroom | Senior Software Engineer (FastAPI & Async Python) | Paris | Remote
+  + Isomorphic Labs | Director of Engineering (ML Platform), London | London
+  + Wayve | Principal Software Engineer, Robot Software | Sunnyvale
+  + Wayve | Tech Lead / Manager - Trajectory Generation and Controls | Sunnyvale
+  + Palantir | Forward Deployed Software Engineer | Dubai, United Arab Emirates
+  + Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | New York, NY
+  + Mistral AI | Discovery Scientists - AI for Science - Paris | Paris
+  + Mistral AI | Software Engineer, New Grad | Paris
+  + Lakera | Engineering Manager, Guard Foundations (Zürich) | Zürich
+  + Lakera | Software Engineer, Agentic team | Zürich
+  + Spotify | Backend Engineer - Ads Measurement | New York, NY
+  + Spotify | Backend Engineer - Music | New York, NY
+  + Spotify | Director, Machine Learning Engineering - Surfaces Foundation | London
+  + Spotify | Engineering Manager - AI Fleet Management & Honk | Stockholm
+  + Spotify | Engineering Manager - Content Platform | London
+  + Spotify | Engineering Manager - Core Experience (Format Foundations) | London
+  + Spotify | Engineering Manager - Core Infrastructure | Stockholm
+  + Spotify | Engineering Manager - Social Listening | Stockholm
+  + Spotify | Engineering Manager - Subscriptions | New York, NY
+  + Spotify | Engineering Manager II - Analytics Platform | Toronto
+  + Spotify | Full Stack Engineer - Podcast | New York, NY
+  + Spotify | Fullstack Engineer II - Conversational Analytic | Stockholm
+  + Spotify | Machine Learning Engineering Manager - Music | London
+  + Spotify | Senior Backend Engineer - Music | New York, NY
+  + Spotify | Senior Engineering Manager - Native Ads | New York, NY
+  + Spotify | Senior Full Stack Engineer - Audiobooks | London
+  + Spotify | Senior Machine Learning Engineer, Personalization, Magenta | New York, NY
+  + Spotify | Senior Product Manager - Acquisition & Retention | London
+  + Hightouch | Solutions Engineer - EMEA | EMEA
+  + Resend | Backend Engineer, Core Sending | Americas / Remote / Full-time
+  + GitLab | Director, Customer Support Systems | Remote, US
+  + GitLab | Director of Engineering, Workflows & Runners | Remote, Canada; Remote, US
+  + GitLab | Distinguished Engineer, Agentic SDLC & Non‑Linear Productivity | Remote, Canada; Remote, US
+  + GitLab | Regional Director - UK/I Strategic Accounts | Remote, United Kingdom
+  + GitLab | Senior Director, Global SMB Sales | Remote, US
+  + GitLab | Staff Product Manager, AI Agent Orchestration | Remote, US
+  + Notion | Software Engineer, Trust | San Francisco, California
+  + Sierra | Software Engineer, Agent | Tokyo
+  + Together AI | Forward Deployed Engineer (Inference & Post-Training) | San Francisco
+  + Turing | Senior Gen AI Engineer | United States
+  + Scale AI | Engagement Manager, Public Sector | Tampa, FL
+  + Scale AI | Lead Counsel, Global Public Sector | Dubai, UAE; London, UK
+  + Scale AI | Technical Lead Manager, Physical AI | San Francisco, CA
+  + Postman | Key Account Director | Los Angeles, California, United States
+  + Postman | Software Engineer (Backend), Integrations | Bengaluru, Karnataka, India
+  + Razorpay | Manager, Growth Marketing | Bengaluru
+  + Razorpay | Senior Associate, Growth Marketing | Bengaluru
+  + Clay Labs | Trainer, GTM Enablement | New York
+  + Cursor | GRC Security Engineer, Federal & Public Sector | San Francisco
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Sun May 10 10:00:16 IST 2026 ===
+=== Career-Ops Scan: Wed May 13 10:00:00 IST 2026 ===
+Scanning 87 companies via API (20 skipped — no API detected)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Portal Scan — 2026-05-13
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Companies scanned:     87
+Total jobs found:      5909
+Filtered by title:     3625 removed
+Duplicates:            2212 skipped
+New offers added:      72
+
+Errors (10):
+  ✗ Ada: HTTP 404
+  ✗ Factorial: HTTP 404
+  ✗ Tinybird: HTTP 404
+  ✗ Travelperk: HTTP 404
+  ✗ Weights & Biases: HTTP 404
+  ✗ Clarity AI: HTTP 404
+  ✗ Forto: HTTP 404
+  ✗ Vinted: HTTP 404
+  ✗ Runway: HTTP 404
+  ✗ Decagon: This operation was aborted
+
+New offers:
+  + Anthropic | Senior Staff Software Engineer | San Francisco, CA | New York City, NY | Seattle, WA
+  + Anthropic | Staff+ Software Engineer, Privacy | San Francisco, CA | New York City, NY | Seattle, WA
+  + Intercom | Principal Engineer, Fin AI Agent | Dublin, Ireland
+  + RunPod | Developer Relations Lead, AI Infrastructure and Community | Remote, USA
+  + RunPod | Director, Cloud Marketplace and AI Infrastructure Partnerships | Remote, USA
+  + Glean | AI Success Manager, Central | Remote - US
+  + Glean | AI Success Manager, East  | Remote - US
+  + Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA
+  + Glean | Product Manager, Agent Security & Governance | San Francisco, California
+  + Glean | Product Manager, AI Quality | Mountain View, California
+  + Glean | Senior Technical Program Manager, Connectors | San Francisco, CA
+  + Glean | Software Engineer, Platform Security | Remote - US
+  + Glean | Strategic Federal Account Executive, Public Sector (DIB) | Washington, DC
+  + Glean | Tech Lead Manager, Admin Console | Mountain View, CA
+  + Glean | Tech Lead Manager, Agentic Runtime  | Mountain View, CA
+  + Vercel | Software Engineer, Next.js | Hybrid - San Francisco
+  + Arize AI | AI Solutions Engineer, East | Remote (New York)
+  + Arize AI | Forward Deployed Engineer, APJ | Remote (Singapore)
+  + Sierra | Software Engineer, Agent | Munich
+  + Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe) | London
+  + Cohere | Director, Total Rewards | Toronto
+  + LangChain | Customer Growth Manager | New York, NY
+  + LangChain | Deployed Engineer (Seattle) | Seattle, WA
+  + Black Forest Labs | Member of Technical Staff - Model Serving / API Backend Engineer | Freiburg (Germany), San Francisco (USA)
+  + Celonis | Senior Integration & Automation Engineer | Madrid, Spain
+  + Helsing | Supporting Tech Lead - Maritime | Munich - Berlin - London - Paris - Warsaw - Tallinn; Plymouth
+  + Contentful |  Senior Software Engineer - Machine Learning (f/m/d) | London, England, United Kingdom
+  + N26 | Director of Marketing [Paid] | Berlin
+  + N26 | Growth Marketing Manager (Affiliate and Influencer Marketing) - France | Paris
+  + HelloFresh | Senior Regional Director, Fulfillment Operations | Newark, NJ, United States; Phoenix, AZ, United States
+  + HelloFresh | Supply Chain Development Planner | London, England, United Kingdom
+  + SumUp | Commercial(e) Terrain Confirmé (H/F) – Lille et sa métropole  CDI | Lille, Nord, France
+  + SumUp | Commercial Terrain - Indépendant (Freelance) | Toulouse, Haute-Garonne, France
+  + SumUp | Software Engineer (Golang) - Online Payments | Sofia, Bulgaria
+  + Photoroom | Customer Support Agent (Freelance/Part time) | USA | Remote
+  + Photoroom | Senior Software Engineer (Rust)  | Paris | Remote
+  + Wayve | Customer Integration Engineer | Tokyo
+  + Wayve | Product Manager - AI Driver | Japan; Tokyo
+  + Wayve | Senior Software Engineer, Cloud, Simulation | London
+  + Wayve | Senior Software Engineer, Simulation  | London
+  + Wayve | Supply Chain Program Manager | Sunnyvale
+  + Palantir | Forward Deployed Software Engineer | Abu Dhabi, United Arab Emirates
+  + Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian | Washington, D.C.
+  + Qonto | Events Manager Spain | Barcelona
+  + Qonto | Growth Performance Analyst Apprentice | Paris
+  + Attio | Product Engineer | Poland
+  + Attio | Senior Product Engineer [Frontend]  | London
+  + n8n | Founding Engineer, n8n Labs | Berlin Office
+  + Legora | Director, Product Marketing | London
+  + Pigment | Senior GenAI Engineer | France
+  + Spotify | Director, Machine Learning Engineering - Surfaces Foundation | New York, NY
+  + Spotify | Executive Assistant - Government Affairs | Washington D.C.
+  + Spotify | Full Stack Engineer - Advertising | New York, NY
+  + Spotify | Machine Learning Engineering Manager - Music | New York, NY
+  + Spotify | Senior Backend Engineer - Music | London
+  + Spotify | Senior Backend Engineer - Surfaces/PZN | New York, NY
+  + Spotify | Senior Engineering Manager - Core Experience | London
+  + Spotify | Senior Software Engineer - Platform Infrastructure | New York, NY
+  + Spotify | Software Engineer - Platform Infrastructure | New York, NY
+  + GitLab | Forward Deployed Engineer - UK | Remote
+  + GitLab | Forward Deployed Engnieer - META | Remote
+  + GitLab | Solutions Architect,  AI + Security & Compliance, EMEA | Remote, EMEA
+  + Mistral AI | AI Deployment Strategist, Defence - Singapore | Singapore
+  + Mistral AI | AI Deployment Strategist, Public Sector - Singapore | Singapore
+  + Replit | Software Engineer, Developer Experience | Foster City, CA (Hybrid) In office M,W,F
+  + Scale AI | Engagement Manager, Public Sector | Washington, DC
+  + Scale AI | Finance Systems & Automations Manager | San Francisco, CA
+  + Scale AI | Product Designer, Global Public Sector | Doha, Qatar ; Dubai, UAE; Riyadh, Saudi Arabia
+  + Razorpay | Product Manager II | Bengaluru
+  + Razorpay | Product Manager II — No-Code Products | Bengaluru
+  + Razorpay | Product Manager II — Website Builder (Full-Stack Builder Role) | Bengaluru
+  + Postman | Key Account Director | Seattle, Washington, United States
+
+Results saved to data/pipeline.md and data/scan-history.tsv
+
+→ Run /career-ops pipeline to evaluate new offers.
+→ Share results and get help: https://discord.gg/8pRpHETxa4
+=== Scan Complete: Wed May 13 10:00:17 IST 2026 ===

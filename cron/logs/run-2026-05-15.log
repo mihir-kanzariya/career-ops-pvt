@@ -1,0 +1,28 @@
+====================================================================
+Daily apply run starting: 2026-05-15T14:34:53+05:30
+====================================================================
+Final terse summary for cron log:
+
+```
+SUBMITTED: 0
+SKIPPED: 0
+FAILED: 5
+YC_BLOCKED: 0
+```
+
+**Status:** Aborted at submission step. Owl can list/focus windows but `screenshot`/`get_focused_element` fail because the Owl daemon binary lost macOS Accessibility + Screen Recording permission. An "Accessibility Access" system dialog (asking to approve Owl 0.1.198) is overlaying Chrome and can't be dismissed programmatically — Terminal's AppleScript can't reach it either.
+
+**What's ready for manual submit (~10 min total):**
+- 5 candidates evaluated, scored, and tailored PDFs generated in `~/Downloads/cron-2026-05-15/`
+- Razorpay Lead AI Engineer (4.3) · Razorpay Lead SDE (3.8) · Razorpay AI Builder (3.5) · Postman Senior Engineer Search (3.5) · Vercel SWE AI SDK (3.6)
+- All four Razorpay/Postman roles are Bengaluru on-site (no visa friction)
+
+**Fix to unblock cron tomorrow:** System Settings → Privacy & Security → enable Accessibility **and** Screen Recording for `~/.nvm/versions/node/v24.13.1/lib/node_modules/openowl/.owl/owl-darwin-arm64`, then dismiss the on-screen dialog.
+
+Full details: `data/daily-summary-2026-05-15.md` and `cron/logs/failures-2026-05-15.log`. Tracker unchanged (still 36).
+====================================================================
+Daily apply run finished: 2026-05-15T14:48:46+05:30 (exit=0)
+====================================================================
+====================================================================
+Daily apply run starting: 2026-05-15T15:00:44+05:30
+====================================================================
