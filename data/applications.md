@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 47 | 2026-05-29 | Vapi | Agent Engineer | 3.5/5 | Applied | ✅ | [report](reports/047-vapi-agent-engineer-2026-05-29.md) | Applied 2026-05-29 via Ashby. SF hybrid (3-5d/wk), $160-180K + equity + commission. Voice AI agents, $72M Series B. US auth=No, sponsorship=Yes, SF-relocate=Yes. |
 | 42 | 2026-05-25 | Deepgram | Software Engineer, Voice Agents / AI | 3.9/5 | Applied | ✅ | [report](reports/042-deepgram-voice-agents-2026-05-25.md) | Applied 2026-05-25 via Ashby. Remote (US-centric), $160-250K. Voice AI sweet spot. Answered US-located=No, sponsorship=Yes, willing to relocate=Yes. |
 | 43 | 2026-05-25 | GitLab | Senior AI Engineer | 4.3/5 | Applied | ✅ | [report](reports/040-gitlab-senior-ai-engineer-2026-05-25.md) | Applied 2026-05-25 via Greenhouse. Remote, Bangalore (India, no visa). LLM/prompt-eng AI role; strong fit. Email-verified submit. |
 | 44 | 2026-05-25 | Postman | Senior Fullstack Software Engineer (Customer Journey) | 3.4/5 | Applied | ✅ | [report](reports/044-postman-customer-journey-2026-05-25.md) | Applied 2026-05-25 via Greenhouse. SF, US (in-office 5d/wk). Growth/onboarding fit. US-eligible=No, sponsorship=Yes, onsite=Yes (open to relocation). Location risk. |
