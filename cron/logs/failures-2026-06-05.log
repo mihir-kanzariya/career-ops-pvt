@@ -1,0 +1,27 @@
+2026-06-05 daily auto-apply — BLOCKED before any submission.
+
+ROOT CAUSE: Owl/macOS accessibility deadlock (known issue: owl-accessibility-block.md).
+Evidence collected this run:
+  - `universalAccessAuthWarn` window present in mcp__owl__list_windows (18 windows).
+  - mcp__owl__focus_window "Google Chrome" => success, but mcp__owl__screenshot shows ONLY the
+    macOS desktop wallpaper (Chrome menu bar frontmost, no window content). Chrome's single window
+    is on a separate (fullscreen) Space that does not surface on the captured Space.
+  - cmd+n via Owl => no new window appeared on the visible Space (opened on the other Space).
+  - osascript System Events `set value of attribute "AXFullScreen" of window 1 to false`
+    => "AppleEvent timed out (-1712)"  (accessibility control is wedged).
+  - Chrome-native AppleScript `set bounds of front window` => returned "bounds set" but window
+    still did not surface on the visible Space.
+  - mcp__owl__focus_window "universalAccessAuthWarn" => "Window operation timed out — the app may
+    be unresponsive."
+
+RESULT: 0 submitted, 0 failed-at-form (never reached a form), browser automation aborted.
+No CVs generated (deliberately skipped — cannot submit, so no point spending the effort).
+No tracker rows written. No fabricated applications.
+
+MANUAL RECOVERY (must be done at the physical machine):
+  1. Dismiss/resolve the `universalAccessAuthWarn` accessibility dialog.
+  2. In System Settings > Privacy & Security > Accessibility, ensure the Owl/automation helper
+     and Terminal are enabled (toggle off/on if already on).
+  3. Take Chrome OUT of fullscreen (green button / ctrl+cmd+f) so its window lives on the normal
+     desktop Space, not a dedicated fullscreen Space.
+  4. Re-run the daily routine.
