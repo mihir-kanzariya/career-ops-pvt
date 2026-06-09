@@ -1,0 +1,30 @@
+2026-06-09 daily auto-apply — ABORTED at pre-flight (Owl Accessibility deadlock)
+
+SIGNATURE (matches owl-accessibility-block, 7th consecutive occurrence):
+- mcp__owl__list_windows shows `universalAccessAuthWarn` AND a `Google Chrome` window.
+- Screenshot renders desktop wallpaper only, even after focus_window "Google Chrome" made
+  Chrome the foreground app (menu bar shows Chrome). Chrome window is on a fullscreen Space
+  that will not surface.
+- AX events do not deliver: click on the "Window" menu returned "Clicked successfully" but
+  "Nothing changed on screen" (menu never dropped). send_keys/click are no-ops.
+
+PARTIAL signals (NOT a full hang this time):
+- `osascript -e 'tell application "Google Chrome" to count windows'` returned `1` (no -1712 timeout).
+- mcp__owl__screenshot succeeded (no "Display may be unresponsive").
+- mcp__owl__focus_window succeeded.
+  => Owl control + screen-capture APIs are responsive; only AX event delivery is blocked by the
+     open Accessibility prompt. Same end state: cannot drive the Chrome form, run is dead.
+
+ATTEMPTED:
+- focus_window "Google Chrome"            -> success, but only wallpaper rendered
+- click Window menu (363,7)               -> no-op
+- mcp__owl__configure_uac status          -> "UAC management is Windows-only" (no macOS path)
+
+RESULT: 0 submitted, 0 PDFs generated, 0 candidates evaluated. Aborted before Step 2.
+
+RECOVERY (manual, per memory owl-accessibility-block.md):
+1. Mission Control (F3) -> drag Chrome thumbnail to active desktop, or enter the fullscreen
+   Chrome Space and exit fullscreen (ctrl+cmd+f).
+2. System Settings -> Privacy & Security -> Accessibility -> re-enable the Owl binary at
+   ~/.nvm/versions/node/v24.13.1/lib/node_modules/openowl/.owl/owl-darwin-arm64
+3. launchctl kickstart -k gui/$(id -u)/com.mihir.career-ops-daily
