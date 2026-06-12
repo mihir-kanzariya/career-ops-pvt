@@ -1,0 +1,17 @@
+2026-06-12 daily auto-apply — ABORTED AT PRE-FLIGHT (Owl accessibility deadlock)
+
+Pre-flight checks:
+- update-system.mjs check        -> {"status":"dismissed"}  (OK)
+- osascript count Chrome windows -> AppleEvent timed out (-1712)  FAIL
+- owl list_windows               -> 16 windows; "universalAccessAuthWarn" present  FAIL-SIGNAL
+- owl focus_window universalAccessAuthWarn -> "Window operation timed out — the app may be unresponsive"  FAIL
+- owl screenshot                 -> bare desktop wallpaper + Chrome menubar only; no Chrome window rendered
+
+Root cause: macOS universalAccessAuthWarn (Accessibility permission prompt) is open and
+Chrome is stranded (likely on a fullscreen Space). Every operation that touches Chrome
+times out. Owl can list_windows/screenshot but cannot drive Chrome. No submission possible.
+
+This is the documented `owl-accessibility-block` memory. 8th consecutive failed run
+(prior: 05-20, 05-21, 05-22, 05-25, 05-29, 06-02, 06-04, 06-05, 06-09). Recovery is MANUAL.
+
+Submitted: 0  Skipped: 0  Failed-mid-form: 0  YC-blocked: 0
