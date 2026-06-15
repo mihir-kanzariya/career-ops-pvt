@@ -1,0 +1,1 @@
+2026-06-15T09:00 DEADLOCK universalAccessAuthWarn present in window list; Chrome focus_window reports success but screenshot renders only desktop wallpaper (no window content). Owl cannot click/render. 9th consecutive accessibility deadlock. No submissions possible. Recovery is manual (grant/re-grant Accessibility permission to Owl host + bring Chrome off fullscreen Space).
