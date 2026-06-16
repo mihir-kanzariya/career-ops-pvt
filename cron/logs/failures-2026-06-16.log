@@ -1,0 +1,16 @@
+2026-06-16 daily auto-apply — ABORTED at pre-flight (Owl Accessibility deadlock, 10th consecutive)
+
+Signature (partial-block, same as 2026-06-09 and 2026-06-15):
+- mcp__owl__list_windows → 14 windows incl. `universalAccessAuthWarn`
+- osascript 'count windows' of Google Chrome → 2 (NO -1712 timeout)
+- mcp__owl__screenshot → succeeded but shows only desktop wallpaper; Chrome frontmost in menu bar, no window content (Chrome on a fullscreen Space)
+- mcp__owl__focus_window "Google Chrome" → reported success; re-screenshot byte-identical (no surface)
+
+Conclusion: AX event delivery blocked by open `universalAccessAuthWarn` prompt + Chrome on an unreachable fullscreen Space. Submission impossible. No PDFs generated (would be unusable). 0 submissions.
+
+Sourcing healthy: data/pipeline.md has 2,838 direct-ATS URLs ready.
+
+Recovery (manual): see memory/owl-accessibility-block.md §Recovery — surface Chrome off the fullscreen Space, re-grant Accessibility to the Owl binary, then
+  launchctl kickstart -k gui/$(id -u)/com.mihir.career-ops-daily
+
+Cron is now 0-for-10 (5/15, 5/20, 5/21, 5/22, 5/25, 6/2, 6/9, 6/12, 6/15, 6/16). The launchd cron is non-functional until the prevention work lands.
