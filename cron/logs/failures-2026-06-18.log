@@ -1,0 +1,27 @@
+2026-06-18 daily auto-apply — ABORTED at pre-flight (Owl Accessibility deadlock, 11th consecutive)
+
+Signature (HARD block today — worse than the partial blocks of 6/09–6/16):
+- pgrep 'universalAccessAuthWarn' → MATCH (pid 39962, "launchd -s") — Accessibility re-grant dialog open
+- frontmost app (lsappinfo front) → UserNotificationCenter — a system dialog is in front of everything
+- osascript 'count windows' of Google Chrome → AppleEvent timed out (-1712) — full AX block (not the soft "returns 2" seen 6/09–6/16)
+- Google Chrome process alive (pid 6893, 17 helpers) — sourcing/target fine, only AX delivery dead
+
+Decision: did NOT invoke Owl. The osascript probe timing out is conclusive evidence of the block;
+firing Owl would just deadlock and burn the session as it has 10 times. No PDFs generated (un-submittable).
+0 submissions.
+
+Sourcing healthy: data/pipeline.md has 2,875 direct-ATS URLs ready.
+
+PREVENTION LANDED THIS RUN: cron/daily-apply.sh now has a pre-flight guard that runs
+`pgrep -fl universalAccessAuthWarn` BEFORE invoking Claude. When the dialog is open it logs to
+failures-{date}.log, fires a desktop notification, prints SUBMITTED/SKIPPED/FAILED/YC_BLOCKED: 0,
+and exits 0 — so future blocked mornings cost ~0 tokens instead of a full doomed Claude session.
+Verified: `zsh -n` passes and the guard fires against the current (blocked) state.
+
+Recovery (manual): see memory/owl-accessibility-block.md §Recovery —
+  1. Surface Chrome off the fullscreen Space (Mission Control / ctrl+cmd+f).
+  2. System Settings → Privacy & Security → Accessibility → re-enable the Owl binary
+     at ~/.nvm/versions/node/v24.13.1/lib/node_modules/openowl/.owl/owl-darwin-arm64
+  3. launchctl kickstart -k gui/$(id -u)/com.mihir.career-ops-daily
+
+Cron is now 0-for-11 (5/15, 5/20, 5/21, 5/22, 5/25, 6/2, 6/9, 6/12, 6/15, 6/16, 6/18).
