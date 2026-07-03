@@ -41,13 +41,32 @@ notify() {
   osascript -e "display notification \"$1\" with title \"career-ops daily-apply\"" 2>/dev/null || true
 }
 
+# Two independent block signals (either is conclusive):
+#   A) the universalAccessAuthWarn process is pgrep-visible, OR
+#   B) Chrome is running but `osascript count windows` times out (-1712).
+# 2026-07-03: signal A alone was too narrow -- the dialog's WINDOW was present
+# (visible in Owl `list_windows`) yet the process was NOT pgrep-visible by that
+# name, so the guard passed and a full doomed Claude session ran. Signal B (the
+# osascript -1712 timeout) is the robust one; check both. The AppleScript is
+# wrapped `with timeout of 15 seconds` so a blocked Chrome fails fast instead of
+# hanging the default ~120s.
+BLOCK_REASON=""
 if pgrep -fl "universalAccessAuthWarn" >/dev/null 2>&1; then
-  echo "PRE-FLIGHT ABORT: universalAccessAuthWarn dialog is open -- Owl AX delivery is blocked."
+  BLOCK_REASON="pgrep 'universalAccessAuthWarn' matched (system Accessibility re-grant dialog open)"
+elif pgrep -f "Google Chrome" >/dev/null 2>&1; then
+  # Chrome is running -- probe it. A -1712 timeout means AX delivery is deadlocked.
+  if ! osascript -e 'with timeout of 15 seconds' -e 'tell application "Google Chrome" to count windows' -e 'end timeout' >/dev/null 2>&1; then
+    BLOCK_REASON="osascript 'count windows' of Chrome failed/timed out (-1712) -- AX delivery deadlocked"
+  fi
+fi
+
+if [ -n "$BLOCK_REASON" ]; then
+  echo "PRE-FLIGHT ABORT: Owl AX delivery is blocked ($BLOCK_REASON)."
   echo "Submission is impossible until Accessibility is re-granted manually. Not invoking Claude."
   {
     echo "$DATE daily auto-apply -- ABORTED at wrapper pre-flight (Owl Accessibility deadlock)"
     echo ""
-    echo "Detection: pgrep 'universalAccessAuthWarn' matched (system Accessibility re-grant dialog open)."
+    echo "Detection: $BLOCK_REASON."
     echo "Consequence: AX event delivery to Chrome blocked; Owl Submit cannot land. Claude NOT invoked (0 tokens)."
     echo ""
     echo "Recovery (manual): see memory/owl-accessibility-block.md section Recovery --"
@@ -60,7 +79,7 @@ if pgrep -fl "universalAccessAuthWarn" >/dev/null 2>&1; then
   echo "SKIPPED: 0"
   echo "FAILED: 0"
   echo "YC_BLOCKED: 0"
-  echo "PREFLIGHT: aborted (universalAccessAuthWarn open)"
+  echo "PREFLIGHT: aborted ($BLOCK_REASON)"
   echo "===================================================================="
   echo "Daily apply run finished (pre-flight abort): $(date -Iseconds)"
   echo "===================================================================="

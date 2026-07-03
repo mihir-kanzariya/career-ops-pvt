@@ -1,0 +1,18 @@
+2026-07-03 daily auto-apply — RUN ABORTED (submission channel deadlocked, day 12)
+
+BLOCKER: universalAccessAuthWarn + Chrome unreachable (same as 2026-06-18 and prior 11 runs)
+
+Pre-flight findings:
+- node update-system.mjs check -> {"status":"dismissed"} (ok)
+- osascript 'count windows' of Google Chrome -> AppleEvent timed out (-1712). Chrome unresponsive to AppleScript.
+- mcp__owl__list_windows -> 14 windows incl. "universalAccessAuthWarn" and 3x "Google Chrome"
+- Screenshot: only desktop wallpaper visible on foreground Space; no Chrome window, no dialog.
+
+Recovery attempts (all no-ops):
+1. focus_window "Google Chrome" -> menu bar switched to Chrome, but NO Chrome window appeared (windows stranded on another/fullscreen Space).
+2. focus_window "universalAccessAuthWarn" -> dialog could not be surfaced onto foreground Space.
+3. send_keys cmd+n -> Chrome did not open a new window (frontmost but hung; not processing synthetic events while the accessibility modal is pending).
+
+Conclusion: identical unrecoverable deadlock. Owl/automation cannot deliver events to Chrome while the universalAccessAuthWarn modal is outstanding, and Chrome's real windows are on a Space that can't be reached. Requires MANUAL recovery (see daily summary).
+
+Result: 0 submitted, 0 failed-mid-apply (never reached apply forms), 0 YC blocked seen (did not scan — channel dead).
